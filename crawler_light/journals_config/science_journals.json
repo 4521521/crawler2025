@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Science",
+        "link": "https://www.science.org/journal/science"
+    },
+    {
+        "name": "Science Advances",
+        "link": "https://www.science.org/journal/sciadv"
+    },
+    {
+        "name": "Science Immunology",
+        "link": "https://www.science.org/journal/sciimmunol"
+    },
+    {
+        "name": "Science Robotics",
+        "link": "https://www.science.org/journal/scirobotics"
+    },
+    {
+        "name": "Science Signaling",
+        "link": "https://www.science.org/journal/signaling"
+    },
+    {
+        "name": "Science Translational Medicine",
+        "link": "https://www.science.org/journal/stm"
+    }
+]

@@ -1,0 +1,37 @@
+# 统一学术期刊爬虫系统配置
+
+# 数据库配置
+MYSQL_HOST: localhost
+MYSQL_PORT: 3306
+MYSQL_USER: root
+MYSQL_PASSWORD: "123123"
+
+# AI分析配置
+# MAIN_LLM_MODEL: deepseek-chat
+# OPENAI_API_KEY: sk-dd2e82aec10d4d90ac038ccc932a4298
+# OPENAI_BASE_URL: https://api.deepseek.com/v1
+
+MAIN_LLM_MODEL: h202.gpt-oss-120b
+OPENAI_API_KEY: sk-527d9dbe7b514b0ca81aa8c8e92870e7
+OPENAI_BASE_URL: https://chat.iphy.ac.cn/api
+
+# 期刊列表文件
+JOURNALS_PATH_NATURE: journals_config/nature_journals.json
+JOURNALS_PATH_SCIENCE: journals_config/science_journals.json
+JOURNALS_PATH_CELL: journals_config/cell_journals_dynamic.json
+JOURNALS_PATH_PLOS: journals_config/plos_journals_dynamic.json
+
+# is_journal配置文件
+IS_JOURNAL_PATH_NATURE: journals_config/nature_is_journal.json
+IS_JOURNAL_PATH_SCIENCE: journals_config/science_is_journal.json
+IS_JOURNAL_PATH_CELL: journals_config/cell_is_journal.json
+IS_JOURNAL_PATH_PLOS: journals_config/plos_is_journal.json
+
+# 统一数据库配置
+MYSQL_DATABASE: paper
+
+# 表名映射（期刊名作为表名）
+TABLE_NAME_NATURE: nature
+TABLE_NAME_SCIENCE: science
+TABLE_NAME_CELL: cell
+TABLE_NAME_PLOS: plos

@@ -1,0 +1,27 @@
+# 学术期刊爬虫系统依赖
+
+# 核心依赖
+requests>=2.25.0
+beautifulsoup4>=4.9.0
+python-dateutil>=2.8.0
+dateparser>=1.1.0
+pyyaml>=5.4.0
+
+# 导出功能
+pandas>=1.3.0
+openpyxl>=3.0.0
+
+# AI分析
+openai>=1.0.0
+
+# Selenium（用于动态内容和反爬虫）
+selenium>=4.0.0
+webdriver-manager>=3.8.0
+
+# 数据库
+pymysql>=1.0.0
+
+# 其他工具
+lxml>=4.6.0
+urllib3>=1.26.0
+schedule>=1.2.0

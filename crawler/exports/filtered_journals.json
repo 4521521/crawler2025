@@ -1,0 +1,594 @@
+{
+  "generated_at": "2025-09-14T12:08:49Z",
+  "families": [
+    "nature",
+    "science",
+    "cell",
+    "plos"
+  ],
+  "items": [
+    {
+      "family": "cell",
+      "name": "Cancer Cell",
+      "link": "https://www.cell.com/cancer-cell/home",
+      "scores": {
+        "reputation": 10,
+        "impact": 10,
+        "specialization": 10,
+        "total": 30
+      }
+    },
+    {
+      "family": "cell",
+      "name": "Cell",
+      "link": "https://www.cell.com/cell/home",
+      "scores": {
+        "reputation": 10,
+        "impact": 10,
+        "specialization": 10,
+        "total": 30
+      }
+    },
+    {
+      "family": "cell",
+      "name": "Cell Host & Microbe",
+      "link": "https://www.cell.com/cell-host-microbe/home",
+      "scores": {
+        "reputation": 10,
+        "impact": 10,
+        "specialization": 10,
+        "total": 30
+      }
+    },
+    {
+      "family": "cell",
+      "name": "Cell Metabolism",
+      "link": "https://www.cell.com/cell-metabolism/home",
+      "scores": {
+        "reputation": 10,
+        "impact": 10,
+        "specialization": 10,
+        "total": 30
+      }
+    },
+    {
+      "family": "cell",
+      "name": "Immunity",
+      "link": "https://www.cell.com/immunity/home",
+      "scores": {
+        "reputation": 10,
+        "impact": 10,
+        "specialization": 10,
+        "total": 30
+      }
+    },
+    {
+      "family": "cell",
+      "name": "Molecular Cell",
+      "link": "https://www.cell.com/molecular-cell/home",
+      "scores": {
+        "reputation": 10,
+        "impact": 10,
+        "specialization": 10,
+        "total": 30
+      }
+    },
+    {
+      "family": "cell",
+      "name": "Neuron",
+      "link": "https://www.cell.com/newton/home",
+      "scores": {
+        "reputation": 10,
+        "impact": 10,
+        "specialization": 10,
+        "total": 30
+      }
+    },
+    {
+      "family": "nature",
+      "name": "Nature",
+      "link": "https://www.nature.com/nature/",
+      "scores": {
+        "reputation": 10,
+        "impact": 10,
+        "specialization": 10,
+        "total": 30
+      }
+    },
+    {
+      "family": "nature",
+      "name": "Nature Biotechnology",
+      "link": "https://www.nature.com/nbt/",
+      "scores": {
+        "reputation": 10,
+        "impact": 10,
+        "specialization": 10,
+        "total": 30
+      }
+    },
+    {
+      "family": "nature",
+      "name": "Nature Cell Biology",
+      "link": "https://www.nature.com/ncb/",
+      "scores": {
+        "reputation": 10,
+        "impact": 10,
+        "specialization": 10,
+        "total": 30
+      }
+    },
+    {
+      "family": "nature",
+      "name": "Nature Genetics",
+      "link": "https://www.nature.com/ng/",
+      "scores": {
+        "reputation": 10,
+        "impact": 10,
+        "specialization": 10,
+        "total": 30
+      }
+    },
+    {
+      "family": "nature",
+      "name": "Nature Materials",
+      "link": "https://www.nature.com/nmat/",
+      "scores": {
+        "reputation": 10,
+        "impact": 10,
+        "specialization": 10,
+        "total": 30
+      }
+    },
+    {
+      "family": "nature",
+      "name": "Nature Medicine",
+      "link": "https://www.nature.com/nm/",
+      "scores": {
+        "reputation": 10,
+        "impact": 10,
+        "specialization": 10,
+        "total": 30
+      }
+    },
+    {
+      "family": "nature",
+      "name": "Nature Nanotechnology",
+      "link": "https://www.nature.com/nnano/",
+      "scores": {
+        "reputation": 10,
+        "impact": 10,
+        "specialization": 10,
+        "total": 30
+      }
+    },
+    {
+      "family": "nature",
+      "name": "Nature Neuroscience",
+      "link": "https://www.nature.com/neuro/",
+      "scores": {
+        "reputation": 10,
+        "impact": 10,
+        "specialization": 10,
+        "total": 30
+      }
+    },
+    {
+      "family": "nature",
+      "name": "Nature Photonics",
+      "link": "https://www.nature.com/nphoton/",
+      "scores": {
+        "reputation": 10,
+        "impact": 10,
+        "specialization": 10,
+        "total": 30
+      }
+    },
+    {
+      "family": "science",
+      "name": "Science",
+      "link": "https://www.science.org/journal/science",
+      "scores": {
+        "reputation": 10,
+        "impact": 10,
+        "specialization": 10,
+        "total": 30
+      }
+    },
+    {
+      "family": "science",
+      "name": "Science Translational Medicine",
+      "link": "https://www.science.org/journal/stm",
+      "scores": {
+        "reputation": 10,
+        "impact": 10,
+        "specialization": 10,
+        "total": 30
+      }
+    },
+    {
+      "family": "cell",
+      "name": "Trends in Cognitive Sciences",
+      "link": "https://www.cell.com/trends/cognitive-sciences/home",
+      "scores": {
+        "reputation": 10,
+        "impact": 10,
+        "specialization": 9,
+        "total": 29
+      }
+    },
+    {
+      "family": "cell",
+      "name": "Trends in Ecology & Evolution",
+      "link": "https://www.cell.com/trends/ecology-evolution/home",
+      "scores": {
+        "reputation": 10,
+        "impact": 10,
+        "specialization": 9,
+        "total": 29
+      }
+    },
+    {
+      "family": "nature",
+      "name": "Nature Catalysis",
+      "link": "https://www.nature.com/natcatal/",
+      "scores": {
+        "reputation": 10,
+        "impact": 10,
+        "specialization": 9,
+        "total": 29
+      }
+    },
+    {
+      "family": "nature",
+      "name": "Nature Chemistry",
+      "link": "https://www.nature.com/nchem/",
+      "scores": {
+        "reputation": 10,
+        "impact": 10,
+        "specialization": 9,
+        "total": 29
+      }
+    },
+    {
+      "family": "nature",
+      "name": "Nature Energy",
+      "link": "https://www.nature.com/nenergy/",
+      "scores": {
+        "reputation": 10,
+        "impact": 10,
+        "specialization": 9,
+        "total": 29
+      }
+    },
+    {
+      "family": "nature",
+      "name": "Nature Physics",
+      "link": "https://www.nature.com/nphys/",
+      "scores": {
+        "reputation": 10,
+        "impact": 10,
+        "specialization": 9,
+        "total": 29
+      }
+    },
+    {
+      "family": "cell",
+      "name": "Chem",
+      "link": "https://www.cell.com/chem/home",
+      "scores": {
+        "reputation": 9,
+        "impact": 9,
+        "specialization": 9,
+        "total": 27
+      }
+    },
+    {
+      "family": "cell",
+      "name": "Joule",
+      "link": "https://www.cell.com/joule/home",
+      "scores": {
+        "reputation": 9,
+        "impact": 9,
+        "specialization": 9,
+        "total": 27
+      }
+    },
+    {
+      "family": "cell",
+      "name": "Matter",
+      "link": "https://www.cell.com/matter/home",
+      "scores": {
+        "reputation": 9,
+        "impact": 9,
+        "specialization": 9,
+        "total": 27
+      }
+    },
+    {
+      "family": "cell",
+      "name": "Molecular Therapy (partner)",
+      "link": "https://www.cell.com/molecular-therapy-family/molecular-therapy/home",
+      "scores": {
+        "reputation": 9,
+        "impact": 9,
+        "specialization": 9,
+        "total": 27
+      }
+    },
+    {
+      "family": "cell",
+      "name": "One Earth",
+      "link": "https://www.cell.com/one-earth/home",
+      "scores": {
+        "reputation": 9,
+        "impact": 9,
+        "specialization": 9,
+        "total": 27
+      }
+    },
+    {
+      "family": "cell",
+      "name": "Trends in Biotechnology",
+      "link": "https://www.cell.com/trends/biotechnology/home",
+      "scores": {
+        "reputation": 9,
+        "impact": 9,
+        "specialization": 9,
+        "total": 27
+      }
+    },
+    {
+      "family": "cell",
+      "name": "Trends in Genetics",
+      "link": "https://www.cell.com/trends/genetics/home",
+      "scores": {
+        "reputation": 9,
+        "impact": 9,
+        "specialization": 9,
+        "total": 27
+      }
+    },
+    {
+      "family": "cell",
+      "name": "Trends in Microbiology",
+      "link": "https://www.cell.com/trends/microbiology/home",
+      "scores": {
+        "reputation": 9,
+        "impact": 9,
+        "specialization": 9,
+        "total": 27
+      }
+    },
+    {
+      "family": "cell",
+      "name": "Trends in Neurosciences",
+      "link": "https://www.cell.com/trends/neurosciences/home",
+      "scores": {
+        "reputation": 9,
+        "impact": 9,
+        "specialization": 9,
+        "total": 27
+      }
+    },
+    {
+      "family": "nature",
+      "name": "Nature Biomedical Engineering",
+      "link": "https://www.nature.com/natbiomedeng/",
+      "scores": {
+        "reputation": 9,
+        "impact": 9,
+        "specialization": 9,
+        "total": 27
+      }
+    },
+    {
+      "family": "nature",
+      "name": "Nature Chemical Biology",
+      "link": "https://www.nature.com/nchembio/",
+      "scores": {
+        "reputation": 9,
+        "impact": 9,
+        "specialization": 9,
+        "total": 27
+      }
+    },
+    {
+      "family": "nature",
+      "name": "Nature Ecology & Evolution",
+      "link": "https://www.nature.com/natecolevol/",
+      "scores": {
+        "reputation": 9,
+        "impact": 9,
+        "specialization": 9,
+        "total": 27
+      }
+    },
+    {
+      "family": "nature",
+      "name": "Nature Machine Intelligence",
+      "link": "https://www.nature.com/natmachintell/",
+      "scores": {
+        "reputation": 9,
+        "impact": 9,
+        "specialization": 9,
+        "total": 27
+      }
+    },
+    {
+      "family": "nature",
+      "name": "Nature Metabolism",
+      "link": "https://www.nature.com/natmetab/",
+      "scores": {
+        "reputation": 9,
+        "impact": 9,
+        "specialization": 9,
+        "total": 27
+      }
+    },
+    {
+      "family": "nature",
+      "name": "Nature Methods",
+      "link": "https://www.nature.com/nmeth/",
+      "scores": {
+        "reputation": 9,
+        "impact": 9,
+        "specialization": 9,
+        "total": 27
+      }
+    },
+    {
+      "family": "nature",
+      "name": "Nature Microbiology",
+      "link": "https://www.nature.com/nmicrobiol/",
+      "scores": {
+        "reputation": 9,
+        "impact": 9,
+        "specialization": 9,
+        "total": 27
+      }
+    },
+    {
+      "family": "nature",
+      "name": "Nature Plants",
+      "link": "https://www.nature.com/nplants/",
+      "scores": {
+        "reputation": 9,
+        "impact": 9,
+        "specialization": 9,
+        "total": 27
+      }
+    },
+    {
+      "family": "nature",
+      "name": "Nature Sustainability",
+      "link": "https://www.nature.com/natsustain/",
+      "scores": {
+        "reputation": 9,
+        "impact": 9,
+        "specialization": 9,
+        "total": 27
+      }
+    },
+    {
+      "family": "plos",
+      "name": "PLOS Biology",
+      "link": "https://journals.plos.org/plosbiology/",
+      "scores": {
+        "reputation": 9,
+        "impact": 9,
+        "specialization": 9,
+        "total": 27
+      }
+    },
+    {
+      "family": "plos",
+      "name": "PLOS Computational Biology",
+      "link": "https://journals.plos.org/ploscompbiol/",
+      "scores": {
+        "reputation": 9,
+        "impact": 9,
+        "specialization": 9,
+        "total": 27
+      }
+    },
+    {
+      "family": "plos",
+      "name": "PLOS Genetics",
+      "link": "https://journals.plos.org/plosgenetics/",
+      "scores": {
+        "reputation": 9,
+        "impact": 9,
+        "specialization": 9,
+        "total": 27
+      }
+    },
+    {
+      "family": "plos",
+      "name": "PLOS Medicine",
+      "link": "https://journals.plos.org/plosmedicine/",
+      "scores": {
+        "reputation": 9,
+        "impact": 9,
+        "specialization": 9,
+        "total": 27
+      }
+    },
+    {
+      "family": "plos",
+      "name": "PLOS Pathogens",
+      "link": "https://journals.plos.org/plospathogens/",
+      "scores": {
+        "reputation": 9,
+        "impact": 9,
+        "specialization": 9,
+        "total": 27
+      }
+    },
+    {
+      "family": "science",
+      "name": "Science Immunology",
+      "link": "https://www.science.org/journal/sciimmunol",
+      "scores": {
+        "reputation": 9,
+        "impact": 9,
+        "specialization": 9,
+        "total": 27
+      }
+    },
+    {
+      "family": "science",
+      "name": "Science Robotics",
+      "link": "https://www.science.org/journal/scirobotics",
+      "scores": {
+        "reputation": 9,
+        "impact": 9,
+        "specialization": 9,
+        "total": 27
+      }
+    },
+    {
+      "family": "nature",
+      "name": "Nature Communications",
+      "link": "https://www.nature.com/ncomms/",
+      "scores": {
+        "reputation": 9,
+        "impact": 9,
+        "specialization": 8,
+        "total": 26
+      }
+    },
+    {
+      "family": "science",
+      "name": "Science Advances",
+      "link": "https://www.science.org/journal/sciadv",
+      "scores": {
+        "reputation": 9,
+        "impact": 9,
+        "specialization": 8,
+        "total": 26
+      }
+    },
+    {
+      "family": "cell",
+      "name": "Trends in Pharmacological Sciences",
+      "link": "https://www.cell.com/trends/pharmacological-sciences/home",
+      "scores": {
+        "reputation": 8,
+        "impact": 8,
+        "specialization": 9,
+        "total": 25
+      }
+    },
+    {
+      "family": "nature",
+      "name": "Nature Human Behaviour",
+      "link": "https://www.nature.com/nathumbehav/",
+      "scores": {
+        "reputation": 8,
+        "impact": 8,
+        "specialization": 8,
+        "total": 24
+      }
+    }
+  ]
+}

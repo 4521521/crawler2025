@@ -1,0 +1,58 @@
+[
+  {
+    "name": "PLOS Biology",
+    "link": "https://journals.plos.org/plosbiology/"
+  },
+  {
+    "name": "PLOS Climate",
+    "link": "https://journals.plos.org/climate/"
+  },
+  {
+    "name": "PLOS Complex Systems",
+    "link": "https://journals.plos.org/complexsystems/"
+  },
+  {
+    "name": "PLOS Computational Biology",
+    "link": "https://journals.plos.org/ploscompbiol/"
+  },
+  {
+    "name": "PLOS Digital Health",
+    "link": "https://journals.plos.org/digitalhealth/"
+  },
+  {
+    "name": "PLOS Genetics",
+    "link": "https://journals.plos.org/plosgenetics/"
+  },
+  {
+    "name": "PLOS Global Public Health",
+    "link": "https://journals.plos.org/globalpublichealth/"
+  },
+  {
+    "name": "PLOS Medicine",
+    "link": "https://journals.plos.org/plosmedicine/"
+  },
+  {
+    "name": "PLOS Mental Health",
+    "link": "https://journals.plos.org/mentalhealth/"
+  },
+  {
+    "name": "PLOS Neglected Tropical Diseases",
+    "link": "https://journals.plos.org/plosntds/"
+  },
+  {
+    "name": "PLOS One",
+    "link": "https://journals.plos.org/plosone/"
+  },
+  {
+    "name": "PLOS Pathogens",
+    "link": "https://journals.plos.org/plospathogens/"
+  },
+  {
+    "name": "PLOS Sustainability and Transformation",
+    "link": "https://journals.plos.org/sustainabilitytransformation/"
+  },
+  {
+    "name": "PLOS Water",
+    "link": "https://journals.plos.org/water/"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Interleukins 15 and 18 synergistically prime the antitumor function of natural killer cells through noncanonical activation of mTORC1",
+    "abstract": "AbstractThe multiprotein complex mTORC1 is essential for the increase in protein synthesis and bioenergetic metabolism that supports the proliferation of many cell types, including natural killer (NK) cells, which are important innate effectors of the antitumoral response. Here, we investigated the mechanisms of mTORC1 activation in NK cells by interleukin-15 (IL-15) and IL-18, which promote NK cell function and are components of a cytokine cocktail used to preactivate NK cells for cancer immunotherapy. Through genetic and pharmacological approaches, we showed that IL-15 activated mTORC1 through the PI3K/Akt/ERK pathway, whereas IL-18 signaled through the p38 effectors MK2 and MK3 in both murine and human primary NK cells. Both pathways synergized to promote NK cell proliferation and effector functions in an mTORC1-dependent manner. Moreover, both pathways operated independently of the inhibitor TSC and the activator Rheb, revealing a noncanonical mode of mTORC1 activation by cytokines. Treating mice with IL-15 and IL-18 in combination led to increased NK cell numbers and improved antitumoral activity, suggesting that this cytokine combination could be exploited to enhance NK cell potential in therapeutic settings.",
+    "date": "2025-09-16",
+    "doi": "10.1126/scisignal.adq8778",
+    "link": "https://www.science.org/doi/10.1126/scisignal.adq8778",
+    "authors": "LucieFallone; KévinPouxvielh; LaureArbez; NoëmiRousseaux; LouisPicq; AnnabelleDrouillard; Anne-LaureMathieu; AnaïsNombel; SarahBenezech; EmilieBourdonnay; SophieDegouve; PierreMachy; ErwanMortier; EléonoreBouscasse; KarimaChaoui; BernardMalissen; AnneGonzalez de Peredo; RomainRoncagalli; ThierryWalzer; AntoineMarçais",
+    "type": "incremental"
+  },
+  {
+    "title": "Wild-type RAS signaling is an essential therapeutic target inRAS-mutated cancers",
+    "abstract": "AbstractMutated RAS proteins activate downstream effector pathways (RAF-MEK-ERK and PI3K-AKT) to drive oncogenic transformation and progression. Because RAS family members differentially engage these pathways, combined inhibition of both pathways is required to effectively treatRAS-mutated cancers. Here, we found that this was due to signaling contributed by wild-type RAS family members that activated an effector pathway that was poorly engaged by the mutant RAS family member. Wild-type KRAS and NRAS promoted RAF-MEK-ERK signaling in cells expressing mutant HRAS, whereas wild-type HRAS and NRAS promoted PI3K-AKT signaling in cells expressing mutant KRAS. Combining inhibitors targeting the poorly engaged RAS effector pathways with inhibitors targeting the mutant RAS resulted in synergistic cytotoxicity in a manner that depended on wild-type RAS expression. The farnesyltransferase inhibitor tipifarnib blocked mutant HRAS-PI3K signaling and synergized with MEK inhibitors inHRAS-mutated cells, whereas KRASG12Cinhibitors blocked mutant KRAS-MEK signaling and synergized with PI3K inhibitors inKRASG12C-mutated cells. Synergy was abolished in MEFs lacking all RAS proteins and in cancer cell lines in which nonmutated RAS family members were deleted. Our data highlight the critical role of wild-type RAS family members in supporting mutant RAS signaling and its importance as a therapeutic cotarget inRAS-mutated cancers.",
+    "date": "2025-09-16",
+    "doi": "10.1126/scisignal.adx5186",
+    "link": "https://www.science.org/doi/10.1126/scisignal.adx5186",
+    "authors": "Nancy E.Sealover; Bridget A.Finniff; Jacob M.Hughes; ErinSheffels; HyunLee; Joseph P.LaMorte; VainaviGambhir; ZariaBeckley; AmandaLinke; Matthew D.Wilkerson; Marielle E.Yohe; Robert L.Kortum",
+    "type": "incremental"
+  }
+]

@@ -1,0 +1,605 @@
+[
+  {
+    "title": "Dinosaur extinction can explain continental facies shifts at the Cretaceous-Paleogene boundary",
+    "abstract": "Continental Cretaceous-Paleogene boundary sections are best known from North America, where they invariably exhibit a marked shift in sedimentary facies at or very near the boundary level. Uppermost Cretaceous strata typically reflect water-logged soils and unstable meandering-river deposits, whereas lowermost Paleogene strata typically reflect coal swamps and broad, stable meander-belt deposits. Causal links between facies shifts at the Cretaceous-Paleogene boundary and the end-Cretaceous mass extinction have been largely dismissed. Here, we present five new Cretaceous-Paleogene boundary sections identified via iridium anomalies in the Bighorn and Williston basins and assess the sedimentological changes that occur at North American Cretaceous-Paleogene boundaries. We hypothesize that the geographically widespread Cretaceous–Paleogene facies shifts were driven by the extinction of dinosaur megafauna. Large-bodied dinosaurs likely promoted open vegetation structure, prompting fluvial avulsion and clastic sediment input to distal floodplains. After the end-Cretaceous mass extinction, dense forests could establish, stabilizing meander belts and starving the floodplain of clastic sediment, favoring the accumulation of organic-rich strata. More empirical data are needed, but facies change in continental Cretaceous-Paleogene boundary sections suggests dinosaurs were ecosystem engineers that promoted habitat openness in the Late Cretaceous, and their extinction likely led to a dramatic reorganization of ecosystem structure in the earliest Paleogene.",
+    "date": "2025-09-15",
+    "doi": "s43247-025-02673-8",
+    "link": "https://www.nature.com/articles/s43247-025-02673-8",
+    "authors": "Weaver, Lucas N.; Tobin, Thomas S.; Sprain, Courtney J.; Wilson Deibel, Paige K.; Korasidis, Vera A.; Carvalho, Mónica R.; Kaskes, Pim; Fendley, Isabel M.",
+    "type": "incremental"
+  },
+  {
+    "title": "Revealing nanoscale plasticity of metallic nanosponges with correlative and scale-bridging 3D microscopy and modelling",
+    "abstract": "Metallic nanosponges are well known to exhibit distinct mechanical properties that are considered to originate from the interwoven mechanics of the nanoscale ligaments as individual units and as a network. A comprehensive understanding of the physical mechanisms behind these properties spanning over several length scales is to date lacking. Here, by employing a correlative and scale-bridging workflow combining non-destructive 3D electron and X-ray tomography, in situ mechanics and experimentally-informed real-size modelling, we reveal the atomic origins of size dependent deformation mechanisms of nanoporous gold ranging from sub-ten to hundreds of nanometers. A realistic distribution of geometries and sizes of the ligaments appears to be crucial to accurately capture the mechanical response of nanoporous gold, including deformation gradients and plasticity. Our workflow demonstrates the potential for exploring the atomistic mechanisms of material plasticity with geometrical complexity.",
+    "date": "2025-09-15",
+    "doi": "s43246-025-00914-z",
+    "link": "https://www.nature.com/articles/s43246-025-00914-z",
+    "authors": "Przybilla, Thomas; Xie, Zhuocheng; Prakash, Aruna; Thiess, Erich; Niekiel, Florian; Apeleo Zubiri, Benjamin; Mačković, Mirza; Schweizer, Peter; Guénolé, Julien; Kelly, Stephen T.; Bale, Hrishikesh A.; Wang, Dong; Sandfeld, Stefan; Bitzek, Erik; Spiecker, Erdmann",
+    "type": "incremental"
+  },
+  {
+    "title": "Continuous operation of a coherent 3,000-qubit system",
+    "abstract": "Neutral atoms are a promising platform for quantum science, enabling advances in areas ranging from quantum simulations1−3and computation4−10to metrology, atomic clocks11−13and quantum networking14−16. While atom losses typically limit these systems to a pulsed mode, continuous operation17−22could significantly enhance cycle rates, remove bottlenecks in metrology23, and enable deep-circuit quantum evolution through quantum error correction24,25. Here we demonstrate an experimental architecture for high-rate reloading and continuous operation of a large-scale atom array system while realizing coherent storage and manipulation of quantum information. Our approach utilizes a series of two optical lattice conveyor belts to transport atom reservoirs into the science region, where atoms are repeatedly extracted into optical tweezers without affecting the coherence of qubits stored nearby. Using a reloading rate of 300,000 atoms in tweezers per second, we create over 30,000 initialized qubits per second, which we leverage to assemble and maintain an array of over 3,000 atoms for more than two hours. Furthermore, we demonstrate persistent refilling of the array with atomic qubits in either a spin-polarized or a coherent superposition state while preserving the quantum state of stored qubits. Our results pave the way for realization of large-scale continuously operated atomic clocks, sensors, and fault-tolerant quantum computers.",
+    "date": "2025-09-15",
+    "doi": "s41586-025-09596-6",
+    "link": "https://www.nature.com/articles/s41586-025-09596-6",
+    "authors": "Chiu, Neng-Chun; Trapp, Elias C.; Guo, Jinen; Abobeih, Mohamed H.; Stewart, Luke M.; Hollerith, Simon; Stroganov, Pavel L.; Kalinowski, Marcin; Geim, Alexandra A.; Evered, Simon J.; Li, Sophie H.; Lyu, Xingjian; Peters, Lisa M.; Bluvstein, Dolev; Wang, Tout T.; Greiner, Markus; Vuletić, Vladan; Lukin, Mikhail D.",
+    "type": "incremental"
+  },
+  {
+    "title": "Single-cell compendium of muscle microenvironment in peripheral artery disease reveals altered endothelial diversity and LYVE1+macrophage activation",
+    "abstract": "Peripheral artery disease (PAD) results from atherosclerosis and chronic narrowing of lower limb arteries, leading to decreased muscle perfusion. Current treatments are suboptimal, partly due to limited understanding of PAD muscle pathology. Here we used single-cell RNA sequencing and spatial transcriptomics to analyze the composition of the muscle microenvironment in non-ischemic patients and patients with PAD. We identifiedATF3/ATF4+endothelial cells (ECs) that exhibit altered angiogenic and immune regulatory profiles during PAD and confirmed that ATF4 signaling in ECs is required for effective ischemia recovery. In addition, capillary ECs display features of endothelial-to-mesenchymal transition. Furthermore,LYVE1hiMHCIIlowmacrophages are the dominant macrophage population in human muscle, adopting a more pro-inflammatory profile during PAD. Finally, we analyzed alterations in intercellular communication within the muscle microenvironment during PAD and confirmed that EC-derived factors can influence macrophage polarization. This dataset deeply characterizes the PAD muscle microenvironment and provides a resource for exploration of targeted therapies.",
+    "date": "2025-09-15",
+    "doi": "s44161-025-00709-y",
+    "link": "https://www.nature.com/articles/s44161-025-00709-y",
+    "authors": "Turiel, Guillermo; Desgeorges, Thibaut; Masschelein, Evi; Fan, Zheng; Lussi, David; Capelle, Christophe M.; Bernardini, Giulia; Ardicoglu, Raphaela; Schönberger, Katharina; Birrer, Manuela; Fucentese, Sandro F.; Zhang, Jing; Latorre, Daniela; Engelberger, Stephan; De Bock, Katrien",
+    "type": "incremental"
+  },
+  {
+    "title": "Leaflet-specific phospholipid imaging using genetically encoded proximity sensors",
+    "abstract": "The lipid composition of cells varies widely across organelles and between individual membrane leaflets. Transport proteins are thought to generate this heterogeneity, but measuring their functions in vivo has been hampered by limited tools for imaging lipids at relevant spatial resolutions. Here we present fluorogen-activating coincidence encounter sensing (FACES), a chemogenetic tool capable of quantitatively imaging subcellular lipid pools and reporting their transbilayer orientation in living cells. FACES combines bioorthogonal chemistry with genetically encoded fluorogen-activating proteins (FAPs) for reversible proximity sensing of conjugated molecules. We first apply this approach to identify roles for lipid transfer proteins that traffic phosphatidylcholine pools between the ER and mitochondria. We then show that transmembrane domain-containing FAPs can reveal the membrane asymmetry of multiple lipid classes in thetrans-Golgi network and be used to investigate the mechanisms that generate it. Finally, we present that FACES can be applied to measure glycans and other molecule classes.",
+    "date": "2025-09-15",
+    "doi": "s41589-025-02021-z",
+    "link": "https://www.nature.com/articles/s41589-025-02021-z",
+    "authors": "Moore, William M.; Brea, Roberto J.; Knittel, Caroline H.; Wrightsman, Ellen; Hui, Brandon; Lou, Jinchao; Ancajas, Christelle F.; Best, Michael D.; Obara, Christopher J.; Devaraj, Neal K.; Budin, Itay",
+    "type": "incremental"
+  },
+  {
+    "title": "ELOVL6 activity attenuation induces mutant KRAS degradation",
+    "abstract": "KRASis one of the most frequently mutated oncogenes in cancer. Targeting mutant KRAS directly has been challenging because of minor structural changes caused by mutations. Despite recent success in targeting KRAS-G12C, targeted therapy for another hotspot mutant, KRAS-G12V, has not been described. We used CRISPR–Cas9 genome-wide knockout screens to identify genes that specifically modulate mutant KRAS harboring the G12V substitution. Our top hit, a fatty acid elongase (ELOVL6), showed remarkable selectivity in diminishing KRAS-G12V protein expression and aberrant oncogenic signaling associated with mutant KRAS. Our studies reveal that ELOVL6 can be targeted to control the production of phospholipids exploited by KRAS mutants for function-targeted and trigger-targeted degradation of the protein. Our results demonstrate the basis for a first-in-class small-molecule inhibitor to selectively clear KRAS-G12V from cancer cells.",
+    "date": "2025-09-15",
+    "doi": "s41589-025-01998-x",
+    "link": "https://www.nature.com/articles/s41589-025-01998-x",
+    "authors": "Hu, Xiyue; Atwal, Ranjit Singh; Xiao, Sophie; Ahmed, Sharif U.; Wang, Zongjie; Zhao, Chenlin; Wang, Hansen; Kelley, Shana O.",
+    "type": "incremental"
+  },
+  {
+    "title": "Reserved charges in a long-lived NiOOH phase drive catalytic water oxidation",
+    "abstract": "Although NiOOH has been widely studied as a water oxidation catalyst, its active structure and catalytic mechanism under operating conditions remain unclear. Isolating the true active phase is of great significance for further exploring the oxygen evolution reaction mechanisms in depth. Here we successfully isolated a long-lived active NiOOH phase with abundant Ni4+and detected the presence of a stable Ni–O–O–Ni2phase in the bulk during the electrochemical oxygen evolution reaction. This phase spontaneously and continuously evolves oxygen in pure water at room temperature for several minutes without requiring an applied potential. Through online mass spectrometry, we demonstrate that spontaneous oxygen evolution proceeds via initial lattice oxygen coupling followed by continuous water oxidation at active sites. By studying this process, we show that the charges stored by the Ni4+in NiOOH bulk can continuously migrate to the surface active sites to drive water oxidation. This offers guidance for the design of more advanced water oxidation catalysts and provides insights at the molecular level.",
+    "date": "2025-09-15",
+    "doi": "s41557-025-01942-5",
+    "link": "https://www.nature.com/articles/s41557-025-01942-5",
+    "authors": "Cui, Xin; Ding, Yunxuan; Zhang, Feiyang; Cao, Xing; Guo, Yu; Sun, Licheng; Zhang, Biaobiao",
+    "type": "incremental"
+  },
+  {
+    "title": "Individual and city-level variations in heat-related road traffic deaths in Latin America",
+    "abstract": "Latin America experiences both high road traffic mortality and extreme heat, which have been shown elsewhere to be interrelated. However, few studies have examined this association in Latin America—one of the world’s most urbanized, fastest-motorizing regions, with a high share of vulnerable road users—and even fewer have analyzed multiple cities across diverse climates and urban settings. Leveraging ambient temperature and road traffic mortality data (2000–2019) from 272 cities in six Latin American countries, we conducted a time-stratified case-crossover study. On the basis of over 1.9 million city-days of data, we found that road traffic mortality risk generally increased with temperature in a monotonic pattern, with significantly elevated risk on extremely hot days, defined at the 95th and 99th temperature percentiles. Risks were particularly high among younger individuals (≤19 years), males, motorcyclists and bicyclists and in cities with hotter climates, longer commutes and more extended street segments. Cities in the tropical Global South should prioritize protecting vulnerable road users, particularly those in peripheral areas, where many endure long, heat-exposed commutes in informal, non-climate-controlled transport.",
+    "date": "2025-09-15",
+    "doi": "s44284-025-00279-x",
+    "link": "https://www.nature.com/articles/s44284-025-00279-x",
+    "authors": "Hsu, Cheng-Kai; Quistberg, D. Alex; Sánchez, Brisa N.; Kephart, Josiah L.; Bilal, Usama; Gouveia, Nelson; Ferrer, Carolina Pérez; Caiaffa, Waleska T.; de Lima Friche, Amélia Augusta; Yannone, Ignacio; Rodríguez, Daniel A.",
+    "type": "incremental"
+  },
+  {
+    "title": "Operando interlayer expansion of multiscale curved graphene for volumetrically-efficient supercapacitors",
+    "abstract": "Supercapacitors deliver high power but are limited in compact applications by low volumetric energy and power densities. Two-dimensional materials like graphene, despite their high packing density, are hindered by poor ion transport kinetics. A rapid thermal annealing step generates unusually curved turbostratic graphene crystallites, integrated and interwoven within disordered domains in micron-size particles to yield multiscale graphene. Ion insertion into the interlayers enables precise pore-ion matching and partial charge transfer, enabling a high Brunauer-Emmett-Teller surface area-normalized capacitance of 85 µF/cm2. Here, we show that multiscale graphene exhibits rapid ion transport dynamics within the curved crystallites and disordered domains. When the thin electrodes are assembled into symmetric pouch cell devices, they deliver a stack-level volumetric energy density of 99.5 Wh/L in ionic liquid electrolytes and 49.2 Wh/L in organic electrolyte with a high power density of 69.2 kW/L at 9.6 Wh/L.",
+    "date": "2025-09-15",
+    "doi": "s41467-025-63485-0",
+    "link": "https://www.nature.com/articles/s41467-025-63485-0",
+    "authors": "Jovanović, Petar; Sharifzadeh Mirshekarloo, Meysam; Aitchison, Phillip; Shaibani, Mahdokht; Majumder, Mainak",
+    "type": "incremental"
+  },
+  {
+    "title": "A retrospective cohort study of valproate and infertility in men with epilepsy or bipolar disorder using international health data",
+    "abstract": "Valproate is highly effective at treating epilepsy and bipolar disorder. It faces prescribing restrictions in men due to concerns it causes testicular dysfunction and infertility. These mostly stem from animal models – the human evidence is limited and conflicting. We report the largest ever retrospective cohort study of infertility in men with epilepsy or bipolar disorder, using real-world healthcare data from TriNetX. 91,917 of the men are exposed to valproate, and 535,803 unexposed. Cohorts are propensity score matched for a comprehensive set of baseline covariates, and survival analysis is undertaken using Cox-proportional hazards models. No significant difference is seen between valproate-exposed and unexposed men across lifetime risks of infertility, testicular hypofunction, testicular atrophy, and a composite of low sperm concentration, motility, vitality, normal forms, and semen volume (p> 0.05). Our findings do not support an association between valproate and infertility in men with epilepsy or bipolar disorder in real-world settings.",
+    "date": "2025-09-15",
+    "doi": "s41467-025-63469-0",
+    "link": "https://www.nature.com/articles/s41467-025-63469-0",
+    "authors": "Mbizvo, Gashirai K.; Duncan, Susan E.; Nancarrow, Lewis; Sagarino, Tessa; Watkins, Lance V.; Mbizvo, Michael T.; Lip, Gregory Y. H.; Marson, Anthony G.",
+    "type": "incremental"
+  },
+  {
+    "title": "A polycyclic scaffold identified by structure-based drug design effectively inhibits the human P2X7 receptor",
+    "abstract": "抓取摘要失败",
+    "date": "2025-09-15",
+    "doi": "s41467-025-62643-8",
+    "link": "https://www.nature.com/articles/s41467-025-62643-8",
+    "authors": "",
+    "type": "incremental"
+  },
+  {
+    "title": "Directing selective solvent presentations at electrochemical interfaces to enable initially anode-free sodium metal batteries",
+    "abstract": "Initially anode-free sodium metal batteries offer a high energy density at lower costs than lithium-ion batteries, making them a promising alternative for portable electronics, transportation, and power grids. However, side reactions at the electrode/electrolyte interface hinder their practical applications. Our study reveals that negative electrode stability is primarily influenced by the solvents in the cation’s first solvation shell, whereas positive electrode stability is dictated by weakly bonded solvents. Based on this insight, we introduce an electrolyte design strategy to selectively direct 2-methyltetrahydrofuran to the Na metal electrode and tetrahydrofuran to the NaNi1/3Fe1/3Mn1/3O2positive electrode interface, optimizing stability for both electrodes. With this tailored electrolyte, we achieve an average Coulombic efficiency of 99.91% in Na | |Cu cells for 400 cycles at 1 mA/cm2with 1 mAh/cm2and demonstrate stable Na plating/stripping for 5000 h at 2 mA/cm² with 2 mAh/cm2in Na | |Na cells. Furthermore, an initially anode-free sodium metal battery with a positive electrode active material loading of 14.05 mg cm−2retains 90.9% of its capacity over 150 cycles at 110 mA g−1, even after aging, underscoring its potential for practical applications.",
+    "date": "2025-09-15",
+    "doi": "s41467-025-63902-4",
+    "link": "https://www.nature.com/articles/s41467-025-63902-4",
+    "authors": "Xing, Qianli; Lee, Jung Min; Yang, Ziqi; Van Lehn, Reid C.; Liu, Fang",
+    "type": "incremental"
+  },
+  {
+    "title": "Energy shortages undermine agricultural drought resistance in the Democratic People’s Republic of Korea",
+    "abstract": "Agricultural systems in low-income food-deficit countries face considerable risks from climate extremes and geopolitical tensions. Here, using remote sensing and meteorological observations, we show that the Democratic People’s Republic of Korea exhibits lower agricultural drought resistance than the Republic of Korea under meteorological droughts of similar severity. Energy shortages, exacerbated by trade sanctions, have limited the Democratic People’s Republic of Korea’s irrigation capacity, further impairing its drought resistance and food security.",
+    "date": "2025-09-15",
+    "doi": "s43016-025-01226-8",
+    "link": "https://www.nature.com/articles/s43016-025-01226-8",
+    "authors": "Zhang, Qiang; Dong, Jinwei; Xu, Zhenci; Nam, Won-Ho; Yang, Jilin; Zhang, Yongqiang; Qin, Yue; Gao, Shenghang; Huang, Shengzhi; Tian, Hanqin; Yu, Qiang; Ge, Quansheng",
+    "type": "incremental"
+  },
+  {
+    "title": "Accelerated Bayesian inference of population size history from recombining sequence data",
+    "abstract": "This study introduces population history learning by averaging sampled histories (PHLASH), a new method for inferring population history from whole-genome sequence data. It works by drawing random, low-dimensional projections of the coalescent intensity function from the posterior distribution of a pairwise sequentially Markovian coalescent-like model and averaging them together to form an accurate and adaptive estimator. On simulated data, PHLASH tends to be faster and have lower error than several competing methods, including SMC++, MSMC2 and FITCOAL. Moreover, it provides automatic uncertainty quantification and leads to new Bayesian testing procedures for detecting population structure and ancient bottlenecks. The key technical advance is a new algorithm for computing the score function (gradient of the log likelihood) of a coalescent hidden Markov model, which has the same computational cost as evaluating the log likelihood. PHLASH has been released as an easy-to-use Python software package and leverages graphics processing unit acceleration when available.",
+    "date": "2025-09-15",
+    "doi": "s41588-025-02323-x",
+    "link": "https://www.nature.com/articles/s41588-025-02323-x",
+    "authors": "Terhorst, Jonathan",
+    "type": "incremental"
+  },
+  {
+    "title": "A spatial map of MAPK-activated immunosuppressive myeloid populations in pediatric low-grade glioma",
+    "abstract": "Pediatric low-grade gliomas (pLGGs) are mitogen-activated protein kinase (MAPK) pathway-activated brain tumors prevalent in children and are associated with morbidity despite favorable survival. Here using imaging mass cytometry, we spatially characterized at the single-cell level the tumor microenvironment (TME) of 120 pLGG cases, considering age, molecular drivers, brain location and tumor subtype. Our analysis identified myeloid cells—including resident microglia and bone marrow-derived macrophages—as the predominant immune population in the TME, particularly in optic pathway tumors. Additionally, we discovered an immune signature predictive of progression-free survival. Spatial analysis identified specific cellular interactions, notably myeloid–myeloid contacts and macrophage-enriched regions harboring MAPK-activated, TIM-3+myeloid cells, suggesting an immunosuppressive TME. Our study provides a comprehensive resource on the immune landscape of these pLGGs and underscores the immunosuppressive role of diverse myeloid infiltrates. These findings also indicate that combining TIM-3 blockade with MAPK inhibition might be a promising therapeutic strategy to target both the TME and oncogenic MAPK activation in pLGG tumors.",
+    "date": "2025-09-15",
+    "doi": "s41590-025-02268-7",
+    "link": "https://www.nature.com/articles/s41590-025-02268-7",
+    "authors": "Andrade, Augusto Faria; Sigaud, Romain; Puligandla, Evan; Liu, Bridget; Karimi, Elham; Annett, Alva; Rezanejad, Morteza; Jawhar, Wajih; Taylor, Robert; Cao, Yi; Schmid, Simone; Selt, Florian; Hernáiz Driever, Pablo; Horn, Svea; Sievers, Philipp; Prinz, Marco; Glatzel, Markus; Mawrin, Christian; Hartmann, Christian; Monoranu, Camelia-Maria; Konnikova, Liza; Sahm, Felix; Pfister, Stefan M.; Witt, Olaf; Jones, David T. W.; Koch, Arend; Kleinman, Claudia L.; Capper, David; Walsh, Logan; Jabado, Nada; Milde, Till",
+    "type": "incremental"
+  },
+  {
+    "title": "Lymph nodes fuel KLF2-dependent effector CD8+T cell differentiation during chronic infection and checkpoint blockade",
+    "abstract": "Exhausted CD8+T (TEX) cell responses are maintained by precursors of exhausted T (TPEX) cells that possess high self-renewal and developmental potential. TPEXcells also drive the proliferative burst of effector T cells upon therapeutic immune checkpoint blockade (ICB). However, the spatial context and signals that regulate their differentiation and function are not well defined. Here we identify developmental and functional compartmentalization of TPEXand TEXcells across secondary lymphoid organs during chronic infection. We show that stem-like CD62L+TPEXand effector-like CX3CR1+TEXcells constitute a distinct developmental lineage that is promoted by the lymph node (LN) microenvironment and dependent on the transcription factor KLF2. LNs act as a niche in which migratory dendritic cells provide antigen and costimulatory signals to maintain the proliferative fitness of CD62L+TPEXcells and generation of CX3CR1+TEXcells. Moreover, LNs exclusively drive the proliferative burst and systemic dissemination of CX3CR1+TEXcells during ICB. Thus, our findings identify a unique role for LNs in the maintenance of T cell differentiation and function during systemic chronic infection and ICB therapy.",
+    "date": "2025-09-15",
+    "doi": "s41590-025-02276-7",
+    "link": "https://www.nature.com/articles/s41590-025-02276-7",
+    "authors": "Tsui, Carlson; Heyden, Leonie; Wen, Lifen; Gago da Graça, Catarina; Potemkin, Nikita; Frolov, Aleksej; Rawlinson, Daniel; Qin, Lei; Wimmer, Verena C.; Hadian-Jazi, Marjan; Malko, Darya; Su, Chun-Hsi; Li, Sining; Wilson, Kayla R.; Horvatic, Helena; Wijesinghe, Sharanya K.; Moreira, Marcela L.; Dryburgh, Lachlan; Schienstock, Dominik; Rausch, Lisa; Utzschneider, Daniel T.; Halin, Cornelia; Mueller, Scott N.; Beyer, Marc D.; Bedoui, Sammy; Abdullah, Zeinab; Schröder, Jan; Kallies, Axel",
+    "type": "incremental"
+  },
+  {
+    "title": "Streaming flexoelectricity in saline ice",
+    "abstract": "Despite 10% of the Earth’s surface being covered by ice, ice power remains untapped. Although ice is known to generate electricity upon bending via flexoelectricity1, the generated electric polarization per curvature, that is, the flexoelectric coefficient, is too small (~1–10 nC m−1) to be utilized for electromechanical devices. Here we demonstrate that doping ice with NaCl can enhance its flexoelectric coefficient 1,000-fold, to ~1–10 μC m−1. We find that this enhancement is due to the bending-induced streaming current along ice grain boundaries. On the basis of this mechanism, we fabricated flexural devices with an effective piezoelectric coefficient of ~4,000 pC N−1, which is comparable to that of the best piezoelectric materials. The high flexoelectricity of saline ice brings the vision of harnessing ice power one step closer to reality, and may also be relevant to the electrical activity of ice-covered terrestrial regions and icy ocean worlds such as Europa or Enceladus. In addition, the model for coupling between strain gradients and streaming currents is not limited to ice and provides a general framework for extracting electromechanical activity from liquid-infused porous solids.",
+    "date": "2025-09-15",
+    "doi": "s41563-025-02332-5",
+    "link": "https://www.nature.com/articles/s41563-025-02332-5",
+    "authors": "Wen, X.; Ma, Q.; Liu, J.; Saeed, U.; Shen, S.; Catalan, G.",
+    "type": "incremental"
+  },
+  {
+    "title": "Interstitial oxygen order and its competition with superconductivity in La2PrNi2O7+δ",
+    "abstract": "High-temperature superconductivity in pressurized La3Ni2O7has attracted considerable interest, yet the superconducting phase is rather fragile. Although bulk superconductivity can be achieved by Pr substitution for La, the underlying mechanism is still unclear. A further puzzle is the role of oxygen content: moderate oxygenation enhances superconductivity, whereas high-pressure oxygen annealing suppresses it. Here combining multislice electron ptychography and electron energy-loss spectroscopy, we show that Pr doping mitigates oxygen vacancies and stabilizes a near-stoichiometric La2PrNi2O7structure. Strikingly, high-pressure oxygen annealing introduces interstitial oxygen atoms that arrange into a stripe-ordered superstructure, which generates excess hole carriers and alters the electronic structure, ultimately suppressing superconductivity under pressure. This contrasts sharply with cuprates, where similar oxygen ordering is known to induce superconductivity. Our findings reveal a competition between interstitial oxygen ordering and superconductivity in bilayer nickelates, providing key insights into the pairing mechanism and guiding principles for engineering more robust superconducting phases.",
+    "date": "2025-09-15",
+    "doi": "s41563-025-02351-2",
+    "link": "https://www.nature.com/articles/s41563-025-02351-2",
+    "authors": "Dong, Zehao; Wang, Gang; Wang, Ningning; Dong, Wen-Han; Gu, Lin; Xu, Yong; Cheng, Jinguang; Chen, Zhen; Wang, Yayu",
+    "type": "incremental"
+  },
+  {
+    "title": "Ultraconfined terahertz phonon polaritons in hafnium dichalcogenides",
+    "abstract": "The confinement of electromagnetic radiation to subwavelength scales relies on strong light–matter interactions. In the infrared and terahertz spectral ranges, phonon polaritons are commonly employed to achieve deeply subdiffractional light confinement, with such optical modes offering much lower losses in comparison to plasmon polaritons. Among these, hyperbolic phonon polaritons in anisotropic materials offer a promising platform for light confinement. Here we report on ultraconfined phonon polaritons in hafnium-based dichalcogenides with confinement factors exceedingλ0/250 in the terahertz spectral range. This extreme light compression within deeply subwavelength thin films is enabled by the large magnitude of the light–matter coupling strength in these compounds and the natural hyperbolicity of HfSe2. Our findings emphasize the role of light–matter coupling for polariton confinement, which for phonon polaritons in polar dielectrics is dictated by the transverse–longitudinal optical phonon energy splitting. Our results demonstrate transition-metal dichalcogenides as an enabling platform for terahertz nanophotonic applications.",
+    "date": "2025-09-15",
+    "doi": "s41563-025-02345-0",
+    "link": "https://www.nature.com/articles/s41563-025-02345-0",
+    "authors": "Kowalski, Ryan A.; Mueller, Niclas S.; Álvarez-Pérez, Gonzalo; Obst, Maximilian; Diaz-Granados, Katja; Carini, Giulia; Senarath, Aditha; Dixit, Saurabh; Niemann, Richarda; Iyer, Raghunandan B.; Kaps, Felix G.; Wetzel, Jakob; Klopf, J. Michael; Kravchenko, Ivan I.; Wolf, Martin; Folland, Thomas G.; Eng, Lukas M.; Kehr, Susanne C.; Alonso-Gonzalez, Pablo; Paarmann, Alexander; Caldwell, Joshua D.",
+    "type": "incremental"
+  },
+  {
+    "title": "Primary care detection of Alzheimer’s disease using a self-administered digital cognitive test and blood biomarkers",
+    "abstract": "After the clinical implementation of amyloid-β-targeting therapies for people with cognitive impairment due to Alzheimer’s disease (AD), there is an urgent need to efficiently identify this patient population in primary care. Therefore, we created a brief and self-administered digital cognitive test battery (BioCog). Based on its sub-scores, a logistic regression model was developed in a secondary care cohort (n= 223) and then evaluated in an independent primary care cohort comprising 19 primary care centers (n= 403). In primary care, BioCog had an accuracy of 85% when using a single cutoff to define cognitive impairment, which was significantly better than the assessment of primary care physicians (accuracy 73%). The accuracy increased to 90% when using a two-cutoff approach. BioCog had significantly higher accuracy than standard paper-and-pencil tests (that is, Mini-Mental State Examination, Montreal Cognitive Assessment, Mini-Cog) and another digital cognitive test. Furthermore, BioCog combined with a blood test could detect clinical, biomarker-verified AD with an accuracy of 90% (one cutoff), significantly better than standard-of-care (accuracy 70%) or when using the blood test alone (accuracy 80%). In conclusion, this proof-of-concept study shows that a brief, self-administered digital cognitive test battery can detect cognitive impairment and, when combined with a blood test, accurately identify clinical AD in primary care.",
+    "date": "2025-09-15",
+    "doi": "s41591-025-03965-4",
+    "link": "https://www.nature.com/articles/s41591-025-03965-4",
+    "authors": "Tideman, Pontus; Karlsson, Linda; Strandberg, Olof; Calling, Susanna; Smith, Ruben; Midlöv, Patrik; Verghese, Philip B.; Braunstein, Joel B.; Mattsson-Carlgren, Niklas; Stomrud, Erik; Palmqvist, Sebastian; Hansson, Oskar",
+    "type": "incremental"
+  },
+  {
+    "title": "Dietary fibre-adapted gut microbiome clears dietary fructose and reverses hepatic steatosis",
+    "abstract": "Excessive consumption of the simple sugar fructose, which induces excessive hepatic lipogenesis and gut dysbiosis, is a risk factor for cardiometabolic diseases. Here we show in male mice that the gut microbiome, when adapted to dietary fibre inulin, catabolizes dietary fructose and mitigates or reverses insulin resistance, hepatic steatosis and fibrosis. Specifically, inulin supplementation, without affecting the host’s small intestinal fructose catabolism, promotes the small intestinal microbiome to break down incoming fructose, thereby decreasing hepatic lipogenesis and fructose spillover to the colonic microbiome. Inulin also activates hepatic de novo serine synthesis and cystine uptake, augmenting glutathione production and protecting the liver from fructose-induced lipid peroxidation. These multi-modal effects of inulin are transmittable by the gut microbiome, whereBacteroides acidifaciensacts as a key player. Thus, the gut microbiome, adapted to use inulin (a fructose polymer), efficiently catabolizes dietary monomeric fructose, thereby protecting the host. These findings provide a mechanism for how fibre can facilitate the gut microbiome to mitigate the host’s exposure to harmful nutrients and disease progression.",
+    "date": "2025-09-15",
+    "doi": "s42255-025-01356-0",
+    "link": "https://www.nature.com/articles/s42255-025-01356-0",
+    "authors": "Jung, Sunhee; Bae, Hosung; Song, Won-Suk; Chun, Yujin; Le, Johnny; Alam, Yasmine; Verlande, Amandine; Chun, Sung Kook; Kim, Joohwan; Kelly, Miranda E.; Lopez, Miranda L.; Park, Sang Hee; Onofre, Daniel; Baek, Jongwon; Jang, Ki-Hong; Rubtsova, Varvara I.; Anica, Alexis; Masri, Selma; Lee, Gina; Jang, Cholsoon",
+    "type": "incremental"
+  },
+  {
+    "title": "Decoding frequency-modulated signals increases information entropy in bacterial second messenger networks",
+    "abstract": "Bacterial second messenger networks transmit environmental information through both amplitude and frequency modulation strategies. However, the mechanisms by which cells decode frequency-encoded signals remain poorly understood. By reconstructing the cyclic adenosine monophosphate second messenger system inPseudomonas aeruginosa, we demonstrate that frequency-to-amplitude signal conversion emerges through three distinct filtering modules that decode frequency-encoded signals into gene expression patterns. Our mathematical framework predicts a range of frequency filtering regimes controlled by a dimensionless threshold parameter. We validated these using synthetic circuits and an automated experimental platform. Quantitative analysis reveals that under the given parameter conditions, frequency modulation expands the accessible state space more substantially than amplitude modulation alone. The total number of accessible states scales as the square of the number of regulated genes for frequency-enhanced control, compared with the power of 0.8 for amplitude-only control. This results in approximately two additional bits of information entropy in three-gene systems when using frequency-based control. Our findings establish the fundamental principles of frequency-based signal processing in bacterial second messenger networks, revealing how cells exploit temporal dynamics to regulate multiple genes and expand accessible state spaces. This provides insights into both cellular information physics and design principles for synthetic biology.",
+    "date": "2025-09-15",
+    "doi": "s41567-025-03030-4",
+    "link": "https://www.nature.com/articles/s41567-025-03030-4",
+    "authors": "Zhang, Rongrong; Wan, Shengjie; Xiong, Jiarui; Ni, Lei; Li, Ye; Huang, Yajia; Li, Bing; Li, Mei; Yang, Shuai; Jin, Fan",
+    "type": "incremental"
+  },
+  {
+    "title": "Arp2/3-mediated bidirectional actin assembly by SPIN90 dimers",
+    "abstract": "Branched actin networks nucleated by the Arp2/3 complex have critical roles in various cellular processes, from cell migration to intracellular transport. However, when activated by WISH/DIP/SPIN90-family proteins, Arp2/3 nucleates linear actin filaments. Here we found that human SPIN90 is a dimer that can nucleate bidirectional actin filaments. To understand the basis for this, we determined a 3-Å-resolution structure of human SPIN90–Arp2/3 complex nucleating actin filaments. Our structure shows that SPIN90 dimerizes through a three-helix bundle and interacts with two Arp2/3 complexes. Each SPIN90 molecule binds both Arp2/3 complexes to promote their activation. Our analysis demonstrates that single-filament nucleation by Arp2/3 is mechanistically more like branch formation than previously appreciated. The dimerization domain in SPIN90 orthologs is conserved in metazoans, suggesting that this mode of bidirectional nucleation is a common strategy to generate antiparallel actin filaments.",
+    "date": "2025-09-15",
+    "doi": "s41594-025-01665-8",
+    "link": "https://www.nature.com/articles/s41594-025-01665-8",
+    "authors": "Liu, Tianyang; Cao, Luyan; Mladenov, Miroslav; Romet-Lemonne, Guillaume; Way, Michael; Moores, Carolyn A.",
+    "type": "incremental"
+  },
+  {
+    "title": "GluA4 AMPA receptor gating mechanisms and modulation by auxiliary proteins",
+    "abstract": "AMPA-type glutamate receptors, fundamental ion channels for fast excitatory neurotransmission and synaptic plasticity, contain a GluA tetrameric core surrounded by auxiliary proteins such as transmembrane AMPA receptor regulatory proteins (TARPs) or Cornichons. Their exact composition and stoichiometry govern functional properties, including kinetics, calcium permeability and trafficking. The GluA1–GluA3 subunits predominate in the adult forebrain and are well characterized. However, we lack structural information on full-length GluA4-containing AMPARs, a subtype that has specific roles in brain development and specific cell types in mammals. Here we present the cryo-electron microscopy structures of rat GluA4:TARP-γ2 trapped in active, resting and desensitized states, covering a full gating cycle. Additionally, we describe the structure of GluA4 alone, which displays a classical Y-shaped conformation. In resting conditions, GluA4:TARP-γ2 adopts two conformations, one resembling the desensitized states of other GluA subunits. Moreover, we identify a regulatory site for TARP-γ2 in the ligand-binding domain that modulates gating kinetics. Our findings uncover distinct features of GluA4, highlighting how subunit composition and auxiliary proteins shape receptor structure and dynamics, expanding glutamatergic signaling diversity.",
+    "date": "2025-09-15",
+    "doi": "s41594-025-01666-7",
+    "link": "https://www.nature.com/articles/s41594-025-01666-7",
+    "authors": "Vega-Gutiérrez, Carlos; Picañol-Párraga, Javier; Sánchez-Valls, Irene; Ribón-Fuster, Victoria del Pilar; Soto, David; Herguedas, Beatriz",
+    "type": "incremental"
+  },
+  {
+    "title": "Activation of Arp2/3 complex by a SPIN90 dimer in linear actin-filament nucleation",
+    "abstract": "Arp2/3 complex is a key nucleator of actin filaments. It requires activation by nucleation-promoting factors (NPFs). WISH/DIP1/SPIN90 (WDS) proteins represent a unique class of NPFs that activate the Arp2/3 complex independently of preexisting filaments, promoting linear actin-filament nucleation. In fission yeast, Dip1 binds to the clamp subunits in Arp2/3 complex to induce the short-pitch conformation, where Arp2 moves closer to Arp3 to mimic a filamentous actin dimer. However, how WDS proteins stimulate subunit flattening in Arp subunits, a ‘scissor-like’ conformational change akin to what is observed in an actin monomer during filament formation, remained unclear. Here we present cryo-electron microscopy structures of human SPIN90 bound to activated bovine Arp2/3 complex on an actin filament pointed end. The structures show that SPIN90 dimerizes through a metazoan-specific domain in the middle segment, engaging both the clamp and the Arp3/ARPC3 interface, to drive the activating conformational changes in Arp2/3 complex. Remarkably, a single SPIN90 dimer can also bridge two Arp2/3 complexes, enabling bidirectional actin nucleation and suggesting a mechanism for rapidly assembling complex actin network architectures.",
+    "date": "2025-09-15",
+    "doi": "s41594-025-01673-8",
+    "link": "https://www.nature.com/articles/s41594-025-01673-8",
+    "authors": "Francis, Justus; Pathri, Achyutha Krishna; Shyam, Kankipati Teja; Sripada, Sridhar; Mitra, Rishav; Narvaez-Ortiz, Heidy Y.; Eliyan, Kiran Vyshnav; Nolen, Brad J.; Chowdhury, Saikat",
+    "type": "incremental"
+  },
+  {
+    "title": "Efficient and selective dechlorination of chlorinated organic pollutants by cob(II)alamin and zero-valent iron",
+    "abstract": "The valorization of chlorinated organic pollutants in water, such as 1,2-dichloroethane (1,2-DCA), into value-added products, such as ethylene, offers a sustainable remediation strategy but is limited by low efficiency and selectivity. Here we present a bioinspired system, consisting of cobalamin (vitamin B12) cofactor and microscale zero-valent iron (mZVI), that dechlorinates 1,2-DCA to ethylene with a rate constant of 0.066 h−1and near-100% selectivity. mZVI creates a moderately reducing environment that reduces cob(III)alamin (the original B12species) to cob(II)alamin, which forms an organocobalt–1,2-DCA complex and drives proton-independent dihaloelimination, avoiding unwanted hydrogenation and ethylene over-reduction. The strategy is effective for various chlorinated alkanes, alkenes and aromatics, high concentrations of 1,2-DCA in wastewater and mixed pollutants in groundwater. Mechanochemically anchoring B12onto mZVI enables assembly in a column reactor for continuous 1,2-DCA removal, achieving a more than tenfold reduction in costs compared with conventional redox processes. This work demonstrates a cost-effective approach to pollutant remediation and resource recovery through the rational modulation of B12redox chemistry.",
+    "date": "2025-09-15",
+    "doi": "s44221-025-00499-4",
+    "link": "https://www.nature.com/articles/s44221-025-00499-4",
+    "authors": "Wang, Huaqing; Cheng, Cheng; Zhao, Bo; Liu, Banghai; Cao, Zhenyu; Cai, Shichao; Yu, Minda; Zhao, Ying; Gu, Baohua; Wang, Zhenyu; Xi, Beidou; He, Feng",
+    "type": "incremental"
+  },
+  {
+    "title": "Reusable photocatalytic film for efficient water disinfection under low light intensity",
+    "abstract": "Access to microbiologically safe water remains a pressing global issue, especially in resource-limited and disaster-affected regions. This study introduces a self-floating photocatalytic film that achieves >4.3-log bacterial inactivation in 10 litres of highly contaminated water within 40 min under low natural sunlight intensity (13–18 mW cm−2), where conventional photocatalysts (for example, TiO2, g-C3N4and so on) are nearly ineffective. The remarkable performance is attributed to reactive oxygen species, especially oxygen-centred organic radicals, an unconventional active species with ultralong lifetimes—several orders of magnitude longer than typical reactive oxygen species. Their persistence allows accumulation under weak illumination, sustaining disinfection efficiency despite limited photon input. Moreover, oxygen-centred organic radicals can avoid attacking the catalyst, conferring excellent film stability (reusable ≥50 times), thereby ensuring cost-effectiveness and sustainability. With low energy demand, high robustness and operational simplicity, this photocatalytic film is particularly suitable for resource-limited regions and is promising for real-world applications in global water safety.",
+    "date": "2025-09-15",
+    "doi": "s44221-025-00500-0",
+    "link": "https://www.nature.com/articles/s44221-025-00500-0",
+    "authors": "Huang, Yuyan; Li, Xiaojun; Yan, Huijie; Xu, Jianqiao; Zhu, Fang; Ye, Yu-Xin; Ouyang, Gangfeng",
+    "type": "incremental"
+  },
+  {
+    "title": "Impact of charge homogeneity on ion selectivity in polyamide membranes",
+    "abstract": "Ion-selective membranes, crucial for diverse applications such as water purification, brine disposal and resource recovery, rely heavily on the pore architecture and surface charge. Narrowing the pore size distribution (PSD) of the membrane is generally acknowledged to be essential for achieving higher ion selectivity. Here we challenge the conventional emphasis on PSD by introducing an alternative determinant—surface charge homogeneity—drawing inspiration from a counterintuitive relationship between PSD and ion selectivity observed in both commercial and laboratory-made polyamide nanofiltration membranes. By integrating multimodal atomic force microscopy technologies, we visually extracted nanoscale charge maps from three dimensions: surface potential, phase and functional groups. The metrological analysis methodology was originally developed to quantitatively describe the spatial charge distribution. It is demonstrated that nanoscale spatial charge homogeneity plays a crucial role in governing ion selectivity, surpassing the influence of PSD. Based on this perception, we devised the high-selective nanofiltration membranes and modules for the lithium–magnesium mixture separation by using a polyethyleneimine multivariate strategy to program polyamide membranes with stepwise-enhanced homogeneous distribution of electropositive-amine moieties. Our work unveils a unique charge homogeneity-dominated selectivity mechanism and demonstrates the feasibility of developing highly ion-selective membranes by facile nanocharge manipulation, surpassing the need for precise PSD control.",
+    "date": "2025-09-15",
+    "doi": "s44221-025-00498-5",
+    "link": "https://www.nature.com/articles/s44221-025-00498-5",
+    "authors": "Lu, Dan; Huang, Mi; Zhang, Chi; Bu, Guangle; Li, Ge; Geng, Yifang; Xu, Shiying; Xiang, Xinchen; Qian, Yukun; Lu, Jiancong; Yao, Zhikan; Jiao, Lei; Zhang, Lin; Wang, Rong",
+    "type": "incremental"
+  },
+  {
+    "title": "The novel protein SEMA3C-319aa triggers glutathione metabolism-dependent ferroptosis in gastric cancer",
+    "abstract": "The lack of effective, targeted therapies for gastric cancer (GC) continues to limit patient survival. Circular RNAs (circRNAs), known to act as epigenetic regulators, may also encode functional proteins. In this study, RNA-seq combined with ribosome profiling (Ribo-seq) of human GC cells identified a non-canonically translated circRNA, circSEMA3C, which encodes a novel 319-amino-acid (aa) protein, SEMA3C-319aa. Functionally, both circSEMA3C and SEMA3C-319aa suppressed GC cell viability and tumor growth in vitro and in vivo. Using proteomics and metabolomics, we found that SEMA3C-319aa targets ferroptosis-associated metabolites and metabolic pathways in GC. Notably, SEMA3C-319aa upregulated the production of polyunsaturated fatty acid chains and inhibited glutathione metabolism-particularly the GSH cycle-thereby suppressing GPX4 activity. Mechanistically, SEMA3C-319aa binds to LDHA and, via its non-canonical nuclear localization signal (NLS), sequence shuttles LDHA into the nucleus, where it enhances transcription of the E3 ligase PARK2, promoting GPX4 degradation. Furthermore, combination treatment with SEMA3C-319aa and the GPX4 inhibitor RSL3 was more effective than monotherapy in vivo. Taken together, our findings reveal a novel NLS-dependent nuclear translocation mechanism mediated by SEMA3C-319aa and identify a new ferroptosis pathway in GC. SEMA3C-319aa may offer a promising adjuvant therapeutic strategy for GC.",
+    "date": "2025-09-15",
+    "doi": "s41388-025-03542-6",
+    "link": "https://www.nature.com/articles/s41388-025-03542-6",
+    "authors": "Xiao, Siyu; Peng, Yin; Peng, Lehua; Xie, Xiaoya; Qin, Jiequan; Ma, Huizhen; Kang, Xinyi; Bing, Chuhan; Huang, Bingyan; Liang, Ke; Zhao, Yidan; Rong, Xueying; Feng, Xianling; Fan, Xinmin; Ashktorab, Hassan; Zhang, Zhong; Jin, Zhe; Zhang, Xiaojing",
+    "type": "incremental"
+  },
+  {
+    "title": "TRIM21-mediated ubiquitination of SIX2 attenuates breast cancer stemness via LGSN suppression",
+    "abstract": "Breast cancer stem cells (BCSCs) are pivotal drivers of breast tumor initiation, metastasis, and therapy resistance. Our previous studies identified the transcription factor SIX2 as a key regulator in maintaining breast cancer stemness. Here, we demonstrate that TRIM21, as an E3 ubiquitin ligase downregulated in breast cancer tissues, binds to SIX2 via its PRY-SPRY domain and catalyzes K48-type ubiquitination at lysine residues K82, K89, and K97. This modification promotes the degradation of SIX2 via the ubiquitin-proteasome pathway, consequently attenuating the stemness and metastatic potential of breast cancer cells. Furthermore, SIX2 transcriptionally activatesLGSNexpression through direct binding to its promoter region, thereby promoting the stemness and metastatic capabilities of breast cancer cells. Clinically, elevated expression of bothSIX2andLGSNcorrelates with poor prognosis in breast cancer patients. These results establish that TRIM21-mediated degradation of SIX2 suppresses LGSN expression, ultimately inhibiting the stemness and metastatic abilities of breast cancer cells, underscoring the critical regulatory role of the TRIM21-SIX2-LGSN axis in breast cancer progression.",
+    "date": "2025-09-15",
+    "doi": "s41388-025-03572-0",
+    "link": "https://www.nature.com/articles/s41388-025-03572-0",
+    "authors": "Chen, Haitao; Zhou, Yi; Zhang, Yunnan; Fan, Yannan; Zheng, Lufeng; Guo, Qianqian",
+    "type": "incremental"
+  },
+  {
+    "title": "Beneficial reversal of dominance maintains a large-effect resistance polymorphism under fluctuating insecticide selection",
+    "abstract": "Large-effect standing genetic variation is commonly found in natural populations and must be maintained in the face of directional natural selection. Theory suggests that under fluctuating selective pressures, beneficial reversal of dominance—where alleles are dominant when beneficial and recessive when deleterious—can strongly stabilize large-effect polymorphisms. However, empirical evidence for this mechanism remains limited because testing requires measurements of selection and dominance in fitness in natural conditions. Here we investigate large-effect fitness polymorphisms at theAcelocus ofDrosophila melanogasterthat confer insecticide resistance and persist at intermediate frequencies worldwide. By combining laboratory and large-scale field mesocosm experiments with insecticide manipulation and mathematical modelling, we show that the benefits of the resistantAcealleles are dominant in pesticide-rich environments, while their fitness costs are recessive in pesticide-free environments. We further show that temporally fluctuating insecticide selection generates chromosome-scale genomic perturbations at sites linked to the resistantAcealleles. Overall, our results suggest that beneficial reversal of dominance under temporally fluctuating selection might plausibly contribute to the maintenance of functional genetic variation and, by stabilizing large frequency fluctuations, impact long-range patterns of genomic variation.",
+    "date": "2025-09-15",
+    "doi": "s41559-025-02853-x",
+    "link": "https://www.nature.com/articles/s41559-025-02853-x",
+    "authors": "Karageorgi, Marianthi; Lyulina, Anastasia S.; Bitter, Mark C.; Lappo, Egor; Greenblum, Sharon I.; Mouza, Zach K.; Tran, Caitlynn T.; Huynh, Andy V.; Oken, Hayes; Schmidt, Paul; Petrov, Dmitri A.",
+    "type": "incremental"
+  },
+  {
+    "title": "A globally consistent negative effect of edge on aboveground forest biomass",
+    "abstract": "Because of widespread forest fragmentation, 70% of the world’s forest area lies within 1 km of an edge. Forest biomass density near edges often differs markedly from biomass density in the interior. In some biomes, these ‘edge effects’ are responsible for substantial reductions in forest carbon storage. However, there is little consensus on the direction and magnitude of edge effects on forest biomass across the globe, which hampers their consideration in forest carbon stock accounting. Here we examined eight million forested locations to quantify variability in edge effects on biomass at a global scale. We found negative edge effects across 97% of examined areas, with aboveground biomass density on average 16% lower near edges than in interior forests. Higher temperature, precipitation and proportion of agricultural land were linked to more negative edge effects. Along with differences in the spatial scale of analysis, this variation can explain contrasting observations among previous studies. We estimate that edge effects have reduced the total aboveground biomass of forests by 9%, equivalent to a loss of 58 Pg. These findings underscore the substantial impact of forest fragmentation on global biomass stocks and highlight the critical need to account for edge effects in carbon stock assessments.",
+    "date": "2025-09-15",
+    "doi": "s41559-025-02840-2",
+    "link": "https://www.nature.com/articles/s41559-025-02840-2",
+    "authors": "Yang, Gayoung; Crowther, Thomas W.; Lauber, Thomas; Zohner, Constantin M.; Smith, Gabriel Reuben",
+    "type": "incremental"
+  },
+  {
+    "title": "Amorphous indium tin oxide transistors for power amplification above 10 GHz",
+    "abstract": "Amorphous oxide semiconductors could be used as thin channel materials in future back-end-of-line-compatible electronics. However, thin body amorphous materials suffer from Joule heating due to the strong scattering of electrons and phonons from extensive local disorder, which can lead to device failure in high-speed power-intensive applications. Here we show that the electrical and thermal transport properties of amorphous indium tin oxide can be enhanced using a silicon carbide substrate. Using this approach, we create top-gate transistors that have a channel length of 120 nm and exhibit negligible performance degradation under high electric fields and temperatures of up to 125 °C. We show that the devices can offer a cutoff frequency of 103 GHz and a maximum oscillation frequency of 125 GHz. Furthermore, our indium tin oxide power amplifiers provide a high output power density of 0.69 W mm−1and a power-added efficiency of 24.1% at 12 GHz.",
+    "date": "2025-09-15",
+    "doi": "s41928-025-01447-6",
+    "link": "https://www.nature.com/articles/s41928-025-01447-6",
+    "authors": "Hu, Qianlan; Zhu, Shenwu; Zhu, Yuzhe; Gu, Chengru; Liu, Shiyuan; Huang, Ru; Wu, Yanqing",
+    "type": "incremental"
+  },
+  {
+    "title": "Solution-processed kesterite solar module with 10.1% certified efficiency",
+    "abstract": "Solution processing has great advantages for emerging thin-film solar cells but remains a big challenge for multielemental inorganic films due to complicated phase evolution and grain growth during crystallization. Here we report the fabrication of uniform, large-area Cu2ZnSn(S,Se)4(CZTSSe) films and solar modules from solution. By tuning the thiourea/metal ratio to increase film porosity—thereby promoting more uniform vertical reaction and lateral grain growth—we improved the uniformity of CZTSSe films and achieved a single-cell efficiency of 13.4% and a solar module efficiency of 8.91%. We further optimized the module structure to reduce non-ideal contact and patterning-induced shunt and resistive losses, resulting in a champion CZTSSe module with a National Renewable Energy Laboratory-certified efficiency of 10.1%. This module also exhibits the lowest cell-to-module loss in open circuit voltage and current density among state-of-the-art emerging thin-film solar modules. Our work demonstrates the viability of solution processing to deposit uniform, large-area CZTSSe film and efficient solar modules, advancing the development of the technology.",
+    "date": "2025-09-15",
+    "doi": "s41560-025-01860-3",
+    "link": "https://www.nature.com/articles/s41560-025-01860-3",
+    "authors": "Xiang, Chunxu; Yuan, Mingjun; Ding, Chuan’an; Zheng, Yuanyuan; Li, Yize; Hu, Xiaole; Zhang, Jie; Li, Xinyu; Ma, Chengfeng; Wang, Shaoying; Yan, Weibo; Yang, Chunlei; Huang, Wei; Xin, Hao",
+    "type": "incremental"
+  },
+  {
+    "title": "Scaling up spatial transcriptomics for large-sized tissues: uncovering cellular-level tissue architecture beyond conventional platforms with iSCALE",
+    "abstract": "Recent advances in spatial transcriptomics (ST) technologies have transformed our ability to profile gene expression while preserving crucial spatial context within tissues. However, existing ST platforms are constrained by high costs, long turnaround times, low resolution, limited gene coverage and inherently small tissue capture areas, which hinder their broad applications. Here we present iSCALE, a method that reconstructs large-scale, super-resolution gene expression landscapes and automatically annotates cellular-level tissue architecture in samples exceeding capture areas of current ST platforms. The performance of iSCALE was assessed by comprehensive evaluations involving benchmarking experiments, immunohistochemistry staining and manual annotations by pathologists. When applied to multiple sclerosis human brain samples, iSCALE uncovered lesion-associated cellular characteristics undetectable by conventional ST experiments. Our results demonstrate the utility of iSCALE in analyzing large tissues by enabling unbiased annotation, resolving cell type composition, mapping cellular microenvironments and revealing spatial features beyond the reach of standard ST analysis or routine histopathological assessment.",
+    "date": "2025-09-15",
+    "doi": "s41592-025-02770-8",
+    "link": "https://www.nature.com/articles/s41592-025-02770-8",
+    "authors": "Schroeder, Amelia; Loth, Melanie L.; Luo, Chunyu; Yao, Sicong; Yan, Hanying; Zhang, Daiwei; Piya, Sarbottam; Plowey, Edward; Hu, Wenxing; Clemenceau, Jean R.; Jang, Inyeop; Kim, Minji; Barnfather, Isabel; Chan, Su Jing; Reynolds, Taylor L.; Carlile, Thomas; Cullen, Patrick; Sung, Ji-Youn; Tsai, Hui-Hsin; Park, Jeong Hwan; Hwang, Tae Hyun; Zhang, Baohong; Li, Mingyao",
+    "type": "incremental"
+  },
+  {
+    "title": "MSnLib: efficient generation of open multi-stage fragmentation mass spectral libraries",
+    "abstract": "Untargeted high-resolution mass spectrometry is a key tool in clinical metabolomics, natural product discovery and exposomics, with compound identification remaining the major bottleneck. Currently, the standard workflow applies spectral library matching against tandem mass spectrometry (MS2) fragmentation data. Multi-stage fragmentation (MSn) yields more profound insights into substructures, enabling validation of fragmentation pathways; however, the community lacks open MSnreference data of diverse natural products and other chemicals. Here we describe MSnLib, a machine learning-ready open resource of >2 million spectra in MSntrees of 30,008 unique small molecules, built with a high-throughput data acquisition and processing pipeline in the open-source software mzmine.",
+    "date": "2025-09-15",
+    "doi": "s41592-025-02813-0",
+    "link": "https://www.nature.com/articles/s41592-025-02813-0",
+    "authors": "Brungs, Corinna; Schmid, Robin; Heuckeroth, Steffen; Mazumdar, Aninda; Drexler, Matúš; Šácha, Pavel; Dorrestein, Pieter C.; Petras, Daniel; Nothias, Louis-Felix; Veverka, Václav; Nencka, Radim; Kameník, Zdeněk; Pluskal, Tomáš",
+    "type": "incremental"
+  },
+  {
+    "title": "Integrating diverse experimental information to assist protein complex structure prediction by GRASP",
+    "abstract": "Protein complex structure prediction is crucial for understanding of biological activities and advancing drug development. While various experimental methods can provide structural insights into protein complexes, the knowledge obtained is often sparse or approximate. A general tool is needed to integrate limited experimental information for high-throughput and accurate prediction. Here we introduce GRASP to efficiently and flexibly incorporate diverse forms of experimental information. GRASP outperforms existing tools in handling both simulated and real-world experimental restraints including those from crosslinking, covalent labeling, chemical shift perturbation and deep mutational scanning. For example, GRASP excels at predicting antigen–antibody complex structures, even surpassing AlphaFold3 when using experimental deep mutational scanning or covalent-labeling restraints. Beyond its accuracy and flexibility in restrained structure prediction, GRASP’s ability to integrate multiple forms of restraints enables integrative modeling. We also showcase its potential in modeling protein structural interactome under near-cellular conditions using previously reported large-scale in situ crosslinking data for mitochondria.",
+    "date": "2025-09-15",
+    "doi": "s41592-025-02820-1",
+    "link": "https://www.nature.com/articles/s41592-025-02820-1",
+    "authors": "Xie, Yuhao; Zhang, Chengwei; Li, Shimian; Du, Xinyu; Lu, Yanjiao; Wang, Min; Hu, Yingtong; Chen, Zhenyu; Liu, Sirui; Gao, Yi Qin",
+    "type": "incremental"
+  },
+  {
+    "title": "De novo discovery of conserved gene clusters in microbial genomes with Spacedust",
+    "abstract": "Metagenomics has revolutionized environmental and human-associated microbiome studies. However, the limited fraction of proteins with known biological processes and molecular functions presents a major bottleneck. In prokaryotes and viruses, evolution favors keeping genes participating in the same biological processes colocalized as conserved gene clusters. Conversely, conservation of gene neighborhood indicates functional association. Here we present Spacedust, a tool for systematic, de novo discovery of conserved gene clusters. To find homologous protein matches, Spacedust uses fast and sensitive structure comparison with Foldseek. Partially conserved clusters are detected using novel clustering and order conservationPvalues. We demonstrate Spacedust’s sensitivity with an all-versus-all analysis of 1,308 bacterial genomes, identifying 72,843 conserved gene clusters containing 58% of the 4.2 million genes. It recovered 95% of antiviral defense system clusters annotated by the specialized tool PADLOC. Spacedust’s high sensitivity and speed will facilitate the annotation of large numbers of sequenced bacterial, archaeal and viral genomes.",
+    "date": "2025-09-15",
+    "doi": "s41592-025-02816-x",
+    "link": "https://www.nature.com/articles/s41592-025-02816-x",
+    "authors": "Zhang, Ruoshi; Mirdita, Milot; Söding, Johannes",
+    "type": "incremental"
+  },
+  {
+    "title": "Recurrent pattern completion drives the neocortical representation of sensory inference",
+    "abstract": "When sensory information is incomplete, the brain relies on prior expectations to infer perceptual objects. Despite the centrality of this process to perception, the neural mechanisms of sensory inference are not understood. Here we used illusory contours (ICs), multi-Neuropixels measurements, mesoscale two-photon (2p) calcium imaging and 2p holographic optogenetics in mice to reveal the neural codes and circuits of sensory inference. We discovered a specialized subset of neurons in primary visual cortex (V1) that respond emergently to illusory bars but not to component image segments. Selective holographic photoactivation of these ‘IC-encoders’ recreated the visual representation of ICs in V1 in the absence of any visual stimulus. These data imply that neurons that encode sensory inference are specialized for receiving and locally broadcasting top-down information. More generally, pattern completion circuits in lower cortical areas may selectively reinforce activity patterns that match prior expectations, constituting an integral step in perceptual inference.",
+    "date": "2025-09-15",
+    "doi": "s41593-025-02055-5",
+    "link": "https://www.nature.com/articles/s41593-025-02055-5",
+    "authors": "Shin, Hyeyoung; Ogando, Mora B.; Abdeladim, Lamiae; Jagadisan, Uday K.; Durand, Severine; Hardcastle, Ben; Belski, Hannah; Cabasco, Hannah; Loefler, Henry; Bawany, Ahad; Wilkes, Josh; Nguyen, Katrina; Suarez, Lucas; Johnson, Tye; Han, Warren; Ouellette, Ben; Grasso, Conor; Swapp, Jackie; Ha, Vivian; Young, Ahrial; Caldejon, Shiella; Williford, Ali; Groblewski, Peter A.; Olsen, Shawn; Kiselycznyk, Carly; Lecoq, Jerome; Adesnik, Hillel",
+    "type": "incremental"
+  },
+  {
+    "title": "Augmenting AMPA receptor signaling after spinal cord injury increases ependymal-derived neural stem/progenitor cell migration and promotes functional recovery",
+    "abstract": "Ependymal cells in the adult spinal cord become activated after spinal cord injury (SCI), gaining stem/progenitor cell properties. Although growing evidence has implicated these cells as potential players in the endogenous repair process after injury, their activation to a stem-cell-like state is transient and insufficient for adequate regeneration. Moreover, the drivers of their activation state remain largely unknown. Previous work suggested that AMPA receptors (AMPARs) regulate cultured ependymal-derived neural stem/progenitor cells (epNSPCs). In this study, we identified an AMPAR-dependent mechanism of epNSPC regulation after SCI. Using lineage tracing in adult mice, we demonstrate that conditional knockout of GluA1–GluA3 AMPAR subunits in epNSPCs abolishes glutamate-induced AMPA currents and impairs the acute activation of these cells after SCI. Augmenting AMPAR signaling with the ampakine CX546 alters the transcriptional profile of epNSPCs, maintaining their acute maturation reversal after SCI into the chronic injury period, increasing connexin-43 signaling, promoting their migratory capacity and enhancing ependymal–glial cell contacts, which may contribute to the spatial distribution and migratory pattern of ependymal cells after injury. CX546 treatment ameliorates the subacute decrease in corticospinal tract excitability after SCI and leads to long-term functional improvements. Together, this work identifies a neurotransmitter receptor-dependent mechanism of epNSPC activation after injury, which may be targeted to harness the regenerative potential of the spinal cord.",
+    "date": "2025-09-15",
+    "doi": "s41593-025-02044-8",
+    "link": "https://www.nature.com/articles/s41593-025-02044-8",
+    "authors": "Hachem, Laureen D.; Moradi Chameh, Homeira; Balbinot, Gustavo; Mothe, Andrea J.; Pacis, Alain; Geng Li, Rui Tong; Valiante, Taufik A.; Lu, Wei; Tator, Charles H.; Fehlings, Michael G.",
+    "type": "incremental"
+  },
+  {
+    "title": "METTL16-mediated inhibition of MXD4 promotes leukemia through activation of the MYC-MAX axis",
+    "abstract": "抓取摘要失败",
+    "date": "2025-09-14",
+    "doi": "s41388-025-03563-1",
+    "link": "https://www.nature.com/articles/s41388-025-03563-1",
+    "authors": "",
+    "type": "incremental"
+  },
+  {
+    "title": "FOXA2 sensitizes endometrial carcinoma to progestin-mediated conservative therapy by triggering PR transcriptional activation",
+    "abstract": "Progesterone receptor (PR) expression correlates strongly with progestin sensitivity in fertility-sparing therapy for endometrial carcinoma (EC). However, the mechanisms governing PR expression remain incompletely defined. Here, by stratifying EC patients into PR-high and PR-low groups, we observe that PR-low tumors exhibit enhanced invasion and metastasis signatures, whereas PR-high tumors display increased fatty acid metabolism. Through integrated network analysis, transcriptional correlation across multiple cohorts, and single-cell transcriptomic profiling, FOXA2 is identified as a master regulator of PR expression. Specifically, FOXA2 directly binds thePRpromoter, which, in turn, transcriptionally activates PR expression and increases the sensitivity of EC cells to medroxyprogesterone acetate (MPA), an oral progestin used in clinical. Overexpression of FOXA2 markedly inhibits tumor progression, evidenced with reduced cell proliferation and migration while elevated apoptosis. Moreover, FOXA2 is critically involved in lipid metabolic modulation and the administration of Orlistat, an FDA-approval inhibitor of fatty acid synthase, elevates FOXA2 and PR expression, subsequently enhancing progestin sensitivity both in vitro and in vivo. Collectively, our findings identify FOXA2 as a key regulator in controlling PR levels in EC cells and propose the activation of FOXA2-PR axis via Orlistat treatment as a promising therapeutic strategy to improve progestin responsiveness in EC patients.",
+    "date": "2025-09-13",
+    "doi": "s41388-025-03564-0",
+    "link": "https://www.nature.com/articles/s41388-025-03564-0",
+    "authors": "Liu, Jie; Ning, Jingyuan; Wang, Yiqin; He, Xiangjun; Wang, Donglai; Zhou, Jingyi; Wang, Jianliu",
+    "type": "incremental"
+  },
+  {
+    "title": "Palaeoecological change preceded the Palaeocene-Eocene Thermal Maximum by 200 kyr in the high latitude south-west Pacific Ocean",
+    "abstract": "The Palaeocene-Eocene Thermal Maximum ca. 55.93 Ma is considered one of the best geological analogues for worst-case, near-future climate states. During this warming interval, calcareous nannoplankton—critical marine primary producers and important components of the biological pump—experienced significant turnover in community composition, which likely had a major impact on ecosystem function. However, determining the extent of this relationship is complicated by recognized geographic variability in the pattern and magnitude of palaeoecological change, as well as a sampling bias towards lower latitude oceanic sites. In this study, we present new calcareous nannofossil assemblage data from the climatically-sensitive, high latitude south-west Pacific Ocean. Critically, our record shows that major changes in nannoplankton community composition—coincident with a 0.5 ‰ decrease in bulk sediment δ13C—preceded the onset of the Palaeocene-Eocene Thermal Maximum by 200 kyr. We suggest this precursor event led to the establishment of a new palaeoecological baseline that caused a relatively muted response of nannofossil assemblages to the main warming event, especially when compared to other high latitude sites. Therefore, our results highlight the importance of examining the influence of local and regional processes on palaeoecological background states when considering geographically heterogenous responses to major global palaeoclimatic events.",
+    "date": "2025-09-12",
+    "doi": "s43247-025-02749-5",
+    "link": "https://www.nature.com/articles/s43247-025-02749-5",
+    "authors": "Jones, Heather L.; Niederbockstruck, Bryan; Westerhold, Thomas; Röhl, Ursula",
+    "type": "incremental"
+  },
+  {
+    "title": "Bioactive molecules unearthed by terabase-scale long-read sequencing of a soil metagenome",
+    "abstract": "Metagenomics provides access to the genetic diversity of uncultured bacteria through analysis of DNA extracted from whole microbial communities. Long-read sequencing is advancing metagenomic discovery by generating larger DNA assemblies than previously possible. However, harnessing the potential of long-read sequencing to access the vast diversity within soil microbiomes is hampered by the challenge of isolating high-quality DNA. Here we introduce a method that can liberate large, high-quality metagenomic DNA fragments from soil bacteria and pair them with optimized nanopore long-read sequencing to generate megabase-sized assemblies. Using this method, we uncover hundreds of complete circular metagenomic genomes from a single soil sample. Through a combination of bioinformatic prediction and chemical synthesis, we convert nonribosomal peptide biosynthetic gene clusters directly into bioactive molecules, identifying antibiotics with rare modes of action and activity against multidrug-resistant pathogens. Our approach advances metagenomic access to the vast genetic diversity of the uncultured bacterial majority and provides a means to convert it to bioactive molecules.",
+    "date": "2025-09-12",
+    "doi": "s41587-025-02810-w",
+    "link": "https://www.nature.com/articles/s41587-025-02810-w",
+    "authors": "Burian, Ján; Boer, Robert E.; Hernandez, Yozen; Morales-Amador, Adrian; Jiang, Linhai; Bhattacharjee, Abir; Panfil, Cecilia; Ternei, Melinda A.; Brady, Sean F.",
+    "type": "incremental"
+  },
+  {
+    "title": "A Ψ–Ψ codon–anticodon pairing in nonsense suppression and translational recoding",
+    "abstract": "Pseudouridine (Ψ) is known for decades but its flexibility in base pairing remains unclear. This study engineers artificial box H/ACA guide RNAs to direct pseudouridylation at the uridine of a premature termination codon (PTC; UAA, UAG or UGA) within an intronless mRNA and U36 of the anticodon of a matching tRNA in yeast and human cells. Targeted pseudouridylation leads to the formation of a Ψ–Ψ codon–anticodon pair, which, together with the other two Watson–Crick base pairs in the codon–anticodon duplex, greatly improves codon–anticodon recognition, robustly promoting PTC readthrough. The intronless mRNA level remains unchanged with or without guide RNAs. Additionally, pseudouridylation does not impact tRNA stability or charging. Our results show that nonsense suppression is promoted by the high affinity of the Ψ–Ψ pair, which is verified by melting curve analysis. This work identifies an unusual Ψ–Ψ base pair, which contributes greatly to codon–anticodon recognition and translational recoding.",
+    "date": "2025-09-12",
+    "doi": "s41589-025-02025-9",
+    "link": "https://www.nature.com/articles/s41589-025-02025-9",
+    "authors": "Pan, Yi; Kierzek, Elzbieta; Kierzek, Ryszard; Mathews, David H.; Yu, Yi-Tao",
+    "type": "incremental"
+  },
+  {
+    "title": "Geographic restrictions in stimulus spending mitigated COVID-19 transmission in Seoul",
+    "abstract": "抓取摘要失败",
+    "date": "2025-09-12",
+    "doi": "s44284-025-00318-7",
+    "link": "https://www.nature.com/articles/s44284-025-00318-7",
+    "authors": "",
+    "type": "incremental"
+  },
+  {
+    "title": "Asymmetric coordination enhances the synergy of Pt species dual active sites for efficient photocatalytic H2evolution",
+    "abstract": "Integrating distinct functional reaction sites within a single photocatalyst offers a promising approach for enhancing the photocatalytic H2evolution by water splitting. However, the synergy between the dual active sites is hindered by suboptimal electronic states arising from the uniform coordination environments. Here we demonstrate a strategy for enhancing the synergy between Pt single atoms and nanoparticles by modulating the coordination environment. The optimal boron doped catalyst with B-Pt-O asymmetric coordination achieves a H2evolution rate of 627.6 mmol g-1h-1, with an apparent quantum efficiency of 98.4%. Experimental and theoretical analysis reveal that the asymmetric coordination structure redistributes the electron density of Pt cocatalysts, promoting charge carrier separation, optimizing the dissociation and adsorption-desorption of the intermediate H2O* and H* on the dual sites. The findings highlight the importance of asymmetric coordination facilitates the photogenerated carrier transfer and surface reactions for efficient photocatalytic H2evolution.",
+    "date": "2025-09-12",
+    "doi": "s41467-025-63637-2",
+    "link": "https://www.nature.com/articles/s41467-025-63637-2",
+    "authors": "Li, Bo; Zheng, Hongshun; Zhou, Tong; Lu, Qingjie; Chen, Mingpeng; Sun, Huachuan; Zhang, Yuxiao; Zhang, Yumin; Li, Dequan; Zi, Baoye; Zhang, Mao; Zhang, Jin; Zhao, Jianhong; He, Tianwei; Zhu, Zhongqi; Zhang, Genlin; Liu, Qingju",
+    "type": "incremental"
+  },
+  {
+    "title": "Heterogeneous, temporally consistent, and plastic brain development after preterm birth",
+    "abstract": "The current view of neurodevelopment after preterm birth presents a strong paradox: diverse neurocognitive outcomes suggest heterogeneous neurodevelopment, yet numerous brain imaging studies focusing on average dysmaturation imply largely uniform aberrations across individuals. Here we show both, spatially heterogeneous individual brain abnormality patterns but with consistent underlying biological mechanisms of injury and plasticity. Using cross-sectional structural magnetic resonance imaging data from preterm neonates and longitudinal data from preterm children and adults in a normative reference framework, we demonstrate that brain development after preterm birth is highly heterogeneous in both severity and patterns of deviations. Individual brain abnormality patterns are also consistent for their extent and location along the life course, associated with glial cell underpinnings, and plastic for influences of the early social environment. Our findings extend conventional views of preterm neurodevelopment, revealing a nuanced landscape of individual variation, with consistent commonalities between subjects. This integrated perspective implies more targeted theranostic intervention strategies, specifically integrating brain charts and imaging at birth, as well as social interventions during early development.",
+    "date": "2025-09-12",
+    "doi": "s41467-025-63967-1",
+    "link": "https://www.nature.com/articles/s41467-025-63967-1",
+    "authors": "Thalhammer, Melissa; Seidlitz, Jakob; Neubauer, Antonia; Menegaux, Aurore; Schmitz-Koep, Benita; Di Biase, Maria A.; Schulz, Julia; Dorfschmidt, Lena; Bethlehem, Richard A. I.; Alexander-Bloch, Aaron; Adamson, Chris; Ball, Gareth; Sa de Almeida, Joana; Beare, Richard; Zimmer, Claus; Daamen, Marcel; Boecker, Henning; Bartmann, Peter; Wolke, Dieter; Hedderich, Dennis M.; Sorg, Christian",
+    "type": "incremental"
+  },
+  {
+    "title": "Matrix directs trophoblast differentiation in a bioprinted organoid model of early placental development",
+    "abstract": "抓取摘要失败",
+    "date": "2025-09-12",
+    "doi": "s41467-025-62996-0",
+    "link": "https://www.nature.com/articles/s41467-025-62996-0",
+    "authors": "",
+    "type": "incremental"
+  },
+  {
+    "title": "Meltwater ponding has an underestimated radiative effect on the surface of the Greenland Ice Sheet",
+    "abstract": "Ponding of meltwater on the surface of the Greenland Ice Sheet has the potential to reduce ice sheet albedo and amplify mass loss. However, this process remains poorly constrained and is absent from models that project ice sheet mass balance. Here we demonstrate that meltwater ponding considerably increases the amount of energy available for melting the Greenland Ice Sheet. We first use satellite-derived products to show that meltwater ponding has a significant impact on spatial albedo patterns, particularly in the lower percolation zone. We then use drone imagery to demonstrate that, in the upper ablation zone, there are thousands of narrow streams and small pools (<100 m²) that collectively account for >50% of the total meltwater area. These small meltwater features are not resolved by surface water maps derived from medium-resolution satellite imagery, signifying that the radiative effect of meltwater ponding is three to four times stronger than predicted by satellite-based approaches. Our findings therefore place lower bounds on the radiative effect of meltwater ponding that could be used to advocate for the inclusion of this process into models that forecast Greenland Ice Sheet’s contribution to sea-level rise.",
+    "date": "2025-09-12",
+    "doi": "s41467-025-62503-5",
+    "link": "https://www.nature.com/articles/s41467-025-62503-5",
+    "authors": "Ryan, Jonathan C.; Cooper, Matthew G.; Cooley, Sarah W.; Rennermalm, Åsa K.; Smith, Laurence C.",
+    "type": "incremental"
+  },
+  {
+    "title": "The reference genome of the human diploid cell line RPE-1",
+    "abstract": "Recent technological advances have facilitated the assembly of telomere-to-telomere (T2T) genomes. The current T2T CHM13 showcases the complete architecture of the human genome, yet its use in functional experiments is limited by discrepancies with the actual genome of the specific biological system under study. Access to reference assemblies for experimentally relevant cell lines is therefore essential in advancing sequencing-based analyses and precise manipulation, particularly in highly variable regions such as centromeres. Here, we present RPE1v1.1, the near-complete diploid genome assembly of the hTERT RPE-1 cell line, a non-cancerous human retinal epithelial model with a stable karyotype. Using high-coverage Pacific Biosciences and Oxford Nanopore Technologies long-read sequencing, we generate a high-quality de novo assembly, validate it through multiple methods, and phase it by integrating high-throughput chromosome conformation capture (Hi-C) data. Our assembly includes chromosome-level scaffolds that span centromeres for all chromosomes. Comparing both haplotypes with the CHM13 genome, we detect haplotype-specific genomic variations, including the translocation between chromosome 10 and chromosome X t(X;10)(Xq28;10q21.2) characteristic of RPE-1 cells, and divergence peaking at centromeres. Altogether, the RPE1v1.1 genome provides a reference-quality diploid assembly of a widely used cell line, supporting high-precision genetic and epigenetic studies in this model system.",
+    "date": "2025-09-12",
+    "doi": "s41467-025-62428-z",
+    "link": "https://www.nature.com/articles/s41467-025-62428-z",
+    "authors": "Volpe, Emilia; Colantoni, Alessio; Corda, Luca; Di Tommaso, Elena; Pelliccia, Franca; Ottalevi, Riccardo; Guarracino, Andrea; Licastro, Danilo; Faino, Luigi; Capulli, Mattia; Formenti, Giulio; Tassone, Evelyne; Giunta, Simona",
+    "type": "incremental"
+  },
+  {
+    "title": "Real-time raw signal genomic analysis using fully integrated memristor hardware",
+    "abstract": "Advances in third-generation sequencing have enabled portable and real-time genomic sequencing, but real-time data processing remains a bottleneck, hampering on-site genomic analysis. These technologies generate noisy analog signals that traditionally require basecalling and read mapping, both demanding costly data movement on von Neumann hardware. Here, to overcome this, we present a memristor-based hardware–software codesign that processes raw sequencer signals directly in analog memory, combining the two separated steps. By exploiting intrinsic device noise for locality-sensitive hashing and implementing parallel approximate searches in content-addressable memory, we experimentally showcase on-site applications, including infectious disease detection and metagenomic classification on a fully integrated memristor chip. Our experimentally validated analysis confirms the effectiveness of this approach on real-world tasks, achieving a 97.15% F1 score in virus raw signal mapping, with 51× speed-up and 477× energy saving over an application-specific integrated circuit. These results demonstrate that in-memory computing hardware provides a viable solution for integration with portable sequencers, enabling real-time and on-site genomic analysis.",
+    "date": "2025-09-12",
+    "doi": "s43588-025-00867-w",
+    "link": "https://www.nature.com/articles/s43588-025-00867-w",
+    "authors": "He, Peiyi; Wang, Shengbo; Mao, Ruibin; Jiang, Mingrui; Siegel, Sebastian; Pedretti, Giacomo; Ignowski, Jim; Strachan, John Paul; Luo, Ruibang; Li, Can",
+    "type": "incremental"
+  },
+  {
+    "title": "Confidential computing for population-scale genome-wide association studies with SECRET-GWAS",
+    "abstract": "抓取摘要失败",
+    "date": "2025-09-12",
+    "doi": "s43588-025-00856-z",
+    "link": "https://www.nature.com/articles/s43588-025-00856-z",
+    "authors": "",
+    "type": "incremental"
+  },
+  {
+    "title": "Applying weighted Cox regression to genome-wide association studies of time-to-event phenotypes",
+    "abstract": "With the growing availability of time-stamped electronic health records linked to genetic data in large biobanks and cohorts, time-to-event phenotypes are increasingly studied in genome-wide association studies. Although numerous Cox-regression-based methods have been proposed for a large-scale genome-wide association study, case ascertainment in time-to-event phenotypes has not been well addressed. Here we propose a computationally efficient Cox-based method, named WtCoxG, that accounts for case ascertainment by fitting a weighted Cox proportional hazards null model. A hybrid strategy incorporating saddlepoint approximation largely increases its accuracy when analyzing low-frequency and rare variants. Notably, by leveraging external minor allele frequencies from public resources, WtCoxG further boosts statistical power. Extensive simulation studies demonstrated that WtCoxG is more powerful than ADuLT and other Cox-based methods, while effectively controlling type I error rates. UK Biobank real data analysis validated that leveraging external minor allele frequencies contributes to the power gains of WtCoxG compared with ADuLT in the analysis of type 2 diabetes and coronary atherosclerosis.",
+    "date": "2025-09-12",
+    "doi": "s43588-025-00864-z",
+    "link": "https://www.nature.com/articles/s43588-025-00864-z",
+    "authors": "Li, Ying; Ma, Yuzhuo; Xu, He; Sun, Yaoyao; Zhu, Min; Yue, Weihua; Zhou, Wei; Bi, Wenjian",
+    "type": "incremental"
+  },
+  {
+    "title": "Deep mantle heterogeneities formed through a basal magma ocean contaminated by core exsolution",
+    "abstract": "Earth’s lowermost mantle harbours two large low-velocity provinces with patches of ultralow-velocity zones. These seismic anomalies may retain geochemical signatures distinct from the surrounding mantle. Yet, their origin remains enigmatic. One proposed explanation is the differentiation of an early-formed basal magma ocean. However, the presence of an excessively thick layer of iron-rich ferropericlase in the crystallized basal magma ocean conflicts with seismic tomography models. Here we use combined thermodynamic and geodynamic modelling to investigate the crystallization of a basal magma ocean continuously contaminated by oxide exsolved from the core, termed the basal exsolution contaminated magma ocean. We find suppression of ferropericlase crystallization. Geodynamic modelling demonstrates that the solidified contaminated magma ocean mantle can lead to the formation of deep mantle structures consistent with large low-velocity provinces and ultralow-velocity zones. In addition, diapirs of core exsolution entrained into the solid mantle may cause small-scale scattering. The basal exsolution contaminated magma ocean inherits the silicon, tungsten and helium isotope compositions from the core and exhibits trace element enrichments, suggesting its possible role as a source material for ocean island basalts that may sample the large low-velocity provinces, pointing to a unified mechanism for forming deep mantle heterogeneities.",
+    "date": "2025-09-12",
+    "doi": "s41561-025-01797-y",
+    "link": "https://www.nature.com/articles/s41561-025-01797-y",
+    "authors": "Deng, Jie; Miyazaki, Yoshinori; Yuan, Qian; Du, Zhixue",
+    "type": "incremental"
+  },
+  {
+    "title": "Genetic subtyping of obesity reveals biological insights into the uncoupling of adiposity from its cardiometabolic comorbidities",
+    "abstract": "Obesity is a heterogeneous condition not adequately captured by a single adiposity trait. We conducted a multi-trait genome-wide association analysis using individual-level data from 452,768 UK Biobank participants to study obesity in relation to cardiometabolic health. We defined continuous ‘uncoupling phenotypes’, ranging from high adiposity with healthy cardiometabolic profiles to low adiposity with unhealthy ones. We identified 266 variants across 205 genomic loci where adiposity-increasing alleles were simultaneously associated with lower cardiometabolic risk. A genetic risk score (GRSuncoupling) aggregating these variants was associated with a lower risk of cardiometabolic disorders, including dyslipidemia and ischemic heart disease, despite higher obesity risk; unlike an adiposity score based on body fat percentage-associated variants (GRSBFP). The 266 variants formed eight genetic subtypes of obesity, each with distinct risk profiles and pathway signatures. Proteomic analyses revealed signatures separating adiposity- and health-driven effects. Our findings reveal new mechanisms that uncouple obesity from cardiometabolic comorbidities and lay a foundation for genetically informed subtyping of obesity to support precision medicine.",
+    "date": "2025-09-12",
+    "doi": "s41591-025-03931-0",
+    "link": "https://www.nature.com/articles/s41591-025-03931-0",
+    "authors": "Chami, Nathalie; Wang, Zhe; Svenstrup, Victor; Obrero, Virginia Diez; Hemerich, Daiane; Huang, Yi; Dashti, Hesam; Manitta, Eleonora; Preuss, Michael H.; North, Kari E.; Holm, Louise Aas; Fonvig, Cilius E.; Holm, Jens-Christian; Hansen, Torben; Scheele, Camilla; Rauch, Alexander; Smit, Roelof A. J.; Claussnitzer, Melina; Loos, Ruth J. F.",
+    "type": "incremental"
+  },
+  {
+    "title": "Organic permeable base transistors for high-performance photodetection with photo-memory effect",
+    "abstract": "Organic semiconductor phototransistors have attracted remarkable academic and industry interest owing to their potential for applications in optoelectronic devices and for enhancing the performance of image sensors. Thanks to their high responsivity, typically attributed to substantial photoconductive gain mechanisms, these devices are well suited for detecting weak light. Here we introduce organic permeable base transistors as memory phototransistors, achieving high responsivity and detectivity. By leveraging the unique structure of organic permeable base transistors and conducting a detailed investigation into the underlying charge-storing mechanism, we achieve responsivity values as high as 109A W−1, detectivity of 1015Jones between 300 nm and 500 nm, and retention times exceeding 105s. The excellent performance can be attributed to a charge carrier trapping process at the porous base electrode, as confirmed through comprehensive electrical and optical characterizations and technology computer-aided design (TCAD) simulations. These findings illustrate the potential of our organic permeable base transistors for sensitive photodetection applications, thereby paving the way for advancements in low-light imaging.",
+    "date": "2025-09-12",
+    "doi": "s41566-025-01740-y",
+    "link": "https://www.nature.com/articles/s41566-025-01740-y",
+    "authors": "Schröder, Jonas; Bonil, Amric; Winkler, Louis Conrad; Frede, Jan; Darbandy, Ghader; Wang, Juan; Leo, Karl; Kleemann, Hans; Benduhn, Johannes",
+    "type": "incremental"
+  },
+  {
+    "title": "Multi-octave frequency comb from an ultra-low-threshold nanophotonic parametric oscillator",
+    "abstract": "Ultra-broadband frequency combs coherently unite distant portions of the electromagnetic spectrum. They underpin discoveries in ultra-fast science and serve as the building blocks of modern photonic technologies. Despite tremendous progress in integrated sources of frequency combs, achieving multi-octave operation on chip has remained elusive mainly because of the energy demand of typical spectral broadening processes. Here we break this barrier and demonstrate multi-octave frequency comb generation using an optical parametric oscillator in nanophotonic lithium niobate with only femtojoules of pump energy. Leveraging this ultra-low threshold and dispersion engineering, we accessed a previously unexplored optical parametric oscillator regime that enables highly efficient and stable coherent spectral broadening. We achieve orders-of-magnitude reduction in the energy requirement compared with the other techniques, confirm the coherence of the comb, and present a path towards more efficient and wider spectral broadening. Our results pave the way for ultra-short-pulse and ultra-broadband on-chip nonlinear photonic systems for numerous applications.",
+    "date": "2025-09-12",
+    "doi": "s41566-025-01753-7",
+    "link": "https://www.nature.com/articles/s41566-025-01753-7",
+    "authors": "Sekine, Ryoto; Gray, Robert M.; Ledezma, Luis; Zhou, Selina; Guo, Qiushi; Marandi, Alireza",
+    "type": "incremental"
+  },
+  {
+    "title": "Parallelized telecom quantum networking with an ytterbium-171 atom array",
+    "abstract": "The integration of quantum computers and sensors into a quantum network enables new capabilities in quantum information science. Most networks with atom-like qubits operate at visible or near-ultraviolet wavelengths and require conversion to the telecom band for long-distance communication, which reduces efficiency and potentially introduces noise. Here we report high-fidelity entanglement between ytterbium-171 atoms and optical photons generated directly in the telecommunication band, where fibre loss is low. The nuclear spin of the atom is entangled with a single photon in the time-bin basis, yielding a high atom-measurement-corrected atom–photon Bell state fidelity. This can be further improved by addressing photon measurement errors. By imaging the atom array onto an optical fibre array, we also implement a parallelized networking protocol that can increase the remote entanglement rate proportionately with the number of channels. We also preserve coherence on a memory qubit during operations on communication qubits. These results support the integration of atomic systems into scalable quantum networks.",
+    "date": "2025-09-12",
+    "doi": "s41567-025-03022-4",
+    "link": "https://www.nature.com/articles/s41567-025-03022-4",
+    "authors": "Li, Lintao; Hu, Xiye; Jia, Zhubing; Huie, William; Sun, Won Kyu Calvin; Aakash; Dong, Yuhao; Hiri-O-Tuppa, Narisak; Covey, Jacob P.",
+    "type": "incremental"
+  },
+  {
+    "title": "Generating structurally and functionally programmable hydrogels by biological membrane hybridization",
+    "abstract": "Hydrogels, as 3D cross-linked hydrophilic networks that exhibit favorable flexibility, cargo loading and release abilities and structure and function designability, are desirable for diverse biomedical applications. For in vivo implementation, however, hydrogels often suffer from swelling-weakened mechanical strength, uncontrollable cargo release and complex composition, inevitably hindering further translation. Despite different reported synthetic approaches, the development of a facile yet universal method capable of fabricating hydrogels with dynamically adjustable structure and function remains difficult. Recently, inspired by biological tissues, we have developed a versatile biological membrane hybridization strategy to generate structurally and functionally programmable hydrogels. Specifically, biological membranes are used as a cross-linker to form a cross-linked network through a supramolecular-covalent cascade reaction route. This protocol demonstrates the construction of two biological membrane-hybridized hydrogels, including liposome-hybridized muscle-mimicking hydrogels with swelling-strengthening mechanical behavior and extracellular vesicle-hybridized skin-mimicking hydrogels with enhanced mechanical strength, lubricity, antibacterial activity and immunoactivity. We describe the detailed preparation procedures and characterize the structures and functions of the obtained hydrogels. We also expand the applicability of this biological membrane hybridization strategy to further tune the structure and function of the biomimetic hydrogels by incorporating a second network. This protocol provides a robust preparative platform to develop dual structure- and function-tunable hydrogels for different biomedical applications. Excluding the synthesis of reactive group–functionalized biological membranes, the fabrication of muscle-mimicking hydrogels takes ~3 d, while the construction of skin-mimicking hydrogels takes ~1 d. The implementation of the protocol requires expertise in polymer modification, hydrogel preparation, nanoscale vesicles, surface functionalization and cell culture.",
+    "date": "2025-09-12",
+    "doi": "s41596-025-01247-4",
+    "link": "https://www.nature.com/articles/s41596-025-01247-4",
+    "authors": "Wu, Feng; Chen, Huan; Liu, Jinyao; Pang, Yan",
+    "type": "incremental"
+  },
+  {
+    "title": "Labeling, isolation and characterization of cell-type-specific exosomes derived from mouse skin tissue",
+    "abstract": "Extracellular vesicles are a heterogeneous group of membrane-bound vesicles involved in cell–cell communication, formed at the plasma membrane (ectosomes) or by endocytosis (exosomes). Most exosome studies so far have focused on in vitro systems or exosomes derived from bodily fluids, while tissue-derived exosomes remain underexplored. Here we present a protocol using cell-type-specific promoter-driven reporter constructs for the targeted labeling and subsequent isolation of exosomes from specific cell types in vivo from mouse tissues. The differentiation between exosomes and ectosomes remains challenging due to limitations of current isolation techniques that are primarily based on size, density or surface markers. To address this issue, our approach leverages genetic engineering to mark exosomes specifically, enabling their precise identification and isolation from a complex biological pool of heterogenous extracellular vesicles. The isolated cell-type-specific exosomes are characterized by electron microscopy, nanoparticle tracking analysis, antibody exosome array assay and other established techniques. The labeling and isolation of exosomes spans 2–3 days and is designed to be accessible to researchers with fundamental laboratory competencies. This protocol facilitates the study of exosome-mediated cellular communication by enabling the isolation of cell-type-specific exosomes from either individual cell types or multiple cell types in combination. Most experiments within the protocol have used murine wound-edge skin tissue, but the protocol can, in principle, also be applied to other tissues to isolate exosomes, with a few modifications as required. This methodology opens new avenues for exploring the functional roles of cell-type-specific exosomes in intercellular communication.",
+    "date": "2025-09-12",
+    "doi": "s41596-025-01238-5",
+    "link": "https://www.nature.com/articles/s41596-025-01238-5",
+    "authors": "Yadav, Anita; Sharma, Anu; Moulick, Mohini; Gavande, Parmeshwar V.; Nandy, Aparajita; Xuan, Yi; Sen, Chandan K.; Ghatak, Subhadip",
+    "type": "incremental"
+  },
+  {
+    "title": "Computational design of sequence-specific DNA-binding proteins",
+    "abstract": "抓取摘要失败",
+    "date": "2025-09-12",
+    "doi": "s41594-025-01669-4",
+    "link": "https://www.nature.com/articles/s41594-025-01669-4",
+    "authors": "",
+    "type": "incremental"
+  },
+  {
+    "title": "Theory for dynamic ion transport in ion-shuttling electrodes for electrochemical ion pumping",
+    "abstract": "Electrochemical ion pumping (EIP) enables unidirectional ion transport, like electrodialysis, but operates via capacitive ion storage, as in capacitive deionization. This functionality is achieved through circuit switching, which dynamically alternates the connections of each ion-shuttling electrode with its neighbouring electrodes. Here we present a mathematical model that captures the spatiotemporal ion transport dynamics in EIP by coupling the Nernst–Planck equation for ion transport through ion-exchange polymers with an extended Donnan model for ion storage in porous electrodes. Simulations reveal unique ion transport behaviours not observed in conventional capacitive deionization or electrodialysis. The model is validated by experiments using EIP cells with single and multiple ion-shuttling electrodes. This work provides a theoretical foundation for EIP, enabling future advances in system design, operational optimization and selective ion separation.",
+    "date": "2025-09-12",
+    "doi": "s44221-025-00480-1",
+    "link": "https://www.nature.com/articles/s44221-025-00480-1",
+    "authors": "Liu, Weifan; Dykstra, Jouke E.; Biesheuvel, P. M.; Xu, Longqian; Lin, Shihong",
+    "type": "incremental"
+  },
+  {
+    "title": "FK228 reshapes tumor microenvironment to enhance anti-PD-L1 efficacy",
+    "abstract": "The lack of a favorable tumor immune microenvironment (TIME) results in limited response rates to immune checkpoint blockade (ICB) across human solid tumors, necessitating the development of novel combination strategies. In this study, we repurposed FK228, an US FDA-approved histone deacetylase inhibitor that is used clinically in non-solid tumor treatment, as a novel ICB sensitizer in solid tumors and revealed the diverse regulatory functions of FK228 in the TIME. FK228 serves as a novel necroptosis inducer in cancer cells by triggering endoplasmic reticulum stress. This in turn enhances the immunogenicity of cancer cells and increases the infiltration of tumor-killing immunocytes, including CD8+T and natural killer cells, particularly activating tumor-infiltrated CD8+T cells. Meanwhile, FK228 treatment shifts macrophages toward the pro-inflammatory phenotype. Moreover, the combined use of FK228 and a PD-L1 inhibitor significantly delay tumor growth and extend the survival of tumor bearing mice. Overall, our findings reveal new possibilities for the clinical application of FK228 in solid tumors and underscore the critical role of histone deacetylases in maintaining the immune-unfavorable TIME.",
+    "date": "2025-09-12",
+    "doi": "s41388-025-03558-y",
+    "link": "https://www.nature.com/articles/s41388-025-03558-y",
+    "authors": "Gong, Liang; Tian, Lu; Li, He; Zhou, Kexuan; He, Haocheng; Xiao, Shuai; Zhu, Yizhun; Gong, Zhicheng; Cui, Kaisa; Zhang, Youming",
+    "type": "incremental"
+  },
+  {
+    "title": "Mapping multi-substrate specificity ofArabidopsisaminotransferases",
+    "abstract": "Nitrogen is an essential element in all organisms, and its availability and use efficiency directly impact organismal growth and performance, especially in plants. Aminotransferases are core enzymes of the nitrogen metabolic network for synthesizing various organonitrogen compounds. Although each aminotransferase can potentially catalyse hundreds of transamination reactions with different combinations of amino and keto acid substrates, the full functionality of many aminotransferases remains elusive. Here we employed high-throughput gene synthesis and enzyme assay platforms to determine the substrate specificities of 38 aminotransferases ofArabidopsis thalianaand unveiled many previously unrecognized activities among a total of 4,104 reactions tested. The integration of these biochemical data in an enzyme-constrained metabolic model ofArabidopsisand in silico simulation further revealed that the promiscuity of aminotransferases may alter nitrogen distribution profiles and contribute to the robustness of the nitrogen metabolic network. This study provides foundational knowledge for deciphering the plant nitrogen metabolic network and improving nitrogen use efficiency in crops.",
+    "date": "2025-09-12",
+    "doi": "s41477-025-02095-6",
+    "link": "https://www.nature.com/articles/s41477-025-02095-6",
+    "authors": "Koper, Kaan; de Oliveira, Marcos V. V.; Huß, Sebastian; Hataya, Shogo; Soleymani, Fayaz; Hawkins, Charles; Rhee, Seung Y.; Takasuka, Taichi E.; Nikoloski, Zoran; Maeda, Hiroshi A.",
+    "type": "incremental"
+  },
+  {
+    "title": "An apoplastic fungal effector disrupts N-glycosylation of ZmLecRK1, inducing its degradation to suppress disease resistance in maize",
+    "abstract": "Pathogens deploy effectors to suppress host immune responses and enable successful colonization in plants. While apoplastic effectors have major roles in pathogenicity, whether and how they directly attack extracellular immune receptors remains unclear. Here we identify an apoplastic effector FgLPMO9A from the fungal pathogenFusarium graminearumthat directly inhibits maize immune receptor ZmLecRK1-mediated resistance. FgLPMO9A belongs to the polysaccharide monooxygenase family, which depolymerizes polysaccharides. Deletion ofFgLPMO9AattenuatesF.graminearumvirulence on maize, but this defect is fully rescued in thezmlecrk1mutants. FgLPMO9A interacts with the extracellular S-domain of ZmLecRK1 and disrupts N-glycosylation at the N341 site, thereby promoting ZmLecRK1 degradation via the NBR1-mediated autophagy pathway. Notably, the ZmLecRK1 variant with the N341Q substitution confers enhanced resistance toF.graminearumin maize. We demonstrate thatF.graminearumdampens maize immunity by deploying an apoplastic effector to induce extracellular immune receptor degradation.",
+    "date": "2025-09-12",
+    "doi": "s41477-025-02112-8",
+    "link": "https://www.nature.com/articles/s41477-025-02112-8",
+    "authors": "Liu, Chuang; Chen, Junbin; Li, Zhenju; Zhang, Zhen; Luan, Yuyang; Liu, Hui; Liu, Hongtian; Huang, Jianhua; Zhu, Wangsheng",
+    "type": "incremental"
+  },
+  {
+    "title": "Gene body methylation regulates gene expression and mediates phenotypic diversity in naturalArabidopsispopulations",
+    "abstract": "Genetic variation is generally regarded as a prerequisite for evolution. In principle, epigenetic information inherited independently of DNA sequence can also enable evolution, but whether this occurs in natural populations is unknown. Here we show that single-nucleotide and epigenetic gene body DNA methylation (gbM) polymorphisms explain comparable amounts of expression variance inArabidopsis thalianapopulations. We genetically demonstrate that gbM regulates transcription, and we identify and genetically validate many associations between gbM polymorphism and the variation of complex traits: fitness under heat and drought, flowering time and accumulation of diverse minerals. Epigenome-wide association studies pinpoint trait-relevant genes with greater precision than genetic association analyses, probably due to reduced linkage disequilibrium between gbM variants. Finally, we identify numerous associations between gbM epialleles and diverse environmental conditions in native habitats, suggesting that gbM facilitates adaptation. Overall, our results indicate that epigenetic methylation variation fundamentally shapes phenotypic diversity in a natural population.",
+    "date": "2025-09-12",
+    "doi": "s41477-025-02108-4",
+    "link": "https://www.nature.com/articles/s41477-025-02108-4",
+    "authors": "Shahzad, Zaigham; Hollwey, Elizabeth; Moore, Jonathan D.; Choi, Jaemyung; Cassin-Ross, Gaëlle; Rouached, Hatem; Robinson, Matthew R.; Zilberman, Daniel",
+    "type": "incremental"
+  }
+]
