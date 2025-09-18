@@ -429,7 +429,7 @@ def main():
   python main.py -j nature --subjournal "Nature" --start-date 2025-09-12 --end-date 2025-09-16
   
   # 只爬取特定Cell子刊
-  python main.py -j cell --subjournal "Cell Death & Differentiation" --start-date 2025-09-12 --end-date 2025-09-16
+  python main.py -j cell --subjournal "Cell Host & Microbe" --start-date 2025-09-12 --end-date 2025-09-16
         """
     )
     
@@ -442,7 +442,7 @@ def main():
     parser.add_argument(
         '--subjournal', '-sub',
         type=str,
-        help='指定特定子刊名称（可选），例如: "Nature" 或 "Cell Death & Differentiation"'
+        help='指定特定子刊名称（可选），例如: "Nature" 或 "Cell Host & Microbe"'
     )
     
     parser.add_argument(
